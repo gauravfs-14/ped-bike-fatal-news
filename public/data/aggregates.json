@@ -1,0 +1,7318 @@
+{
+  "generatedAt": "2026-05-15T18:00:23.638Z",
+  "kpis": {
+    "totalRecords": 15046,
+    "dateStart": "2014-01-01",
+    "dateEnd": "2026-05-15",
+    "uniqueSources": 1932,
+    "uniqueLocations": 85,
+    "uniqueFingerprints": 15046,
+    "likelyOffTopic": 211
+  },
+  "facets": {
+    "platforms": [
+      "news",
+      "reddit",
+      "bluesky",
+      "mastodon"
+    ],
+    "keywordFamilies": [
+      "pedestrian",
+      "bicyclist",
+      "cyclist",
+      "bicycle",
+      "aggregate",
+      "noise",
+      "other"
+    ],
+    "keywords": [
+      "bicycle",
+      "bicycle died",
+      "bicycle fatal accident",
+      "bicycle fatal accidents",
+      "bicycle fatal collision",
+      "bicycle fatal crash",
+      "bicycle fatal crashes",
+      "bicycle fatalities",
+      "bicycle fatality",
+      "bicycle killed",
+      "bicyclist",
+      "bicyclist died",
+      "bicyclist fatal accident",
+      "bicyclist fatal collision",
+      "bicyclist fatal crash",
+      "bicyclist fatal crashes",
+      "bicyclist fatal injuries",
+      "bicyclist fatal injury",
+      "bicyclist fatalities",
+      "bicyclist fatality",
+      "bicyclist killed",
+      "bicyclists",
+      "bike",
+      "bikes",
+      "carcrash",
+      "crash",
+      "crashnotaccident",
+      "cycle died",
+      "cycle fatalities",
+      "cycle fatality",
+      "cycle killed",
+      "cycling",
+      "cyclist",
+      "cyclist died",
+      "cyclist fatal accident",
+      "cyclist fatal collision",
+      "cyclist fatal crash",
+      "cyclist fatal crashes",
+      "cyclist fatal injuries",
+      "cyclist fatal injury",
+      "cyclist fatalities",
+      "cyclist fatality",
+      "cyclist killed",
+      "cyclistfatality",
+      "cyclistkilled",
+      "cyclists",
+      "fatalcrash",
+      "hitandrun",
+      "non-motorist died",
+      "non-motorist fatalities",
+      "non-motorists fatal crash",
+      "non-motorists killed",
+      "pedestrian",
+      "pedestrian died",
+      "pedestrian fatal accident",
+      "pedestrian fatal accidents",
+      "pedestrian fatal collision",
+      "pedestrian fatal collisions",
+      "pedestrian fatal crash",
+      "pedestrian fatal crashes",
+      "pedestrian fatal injuries",
+      "pedestrian fatal injury",
+      "pedestrian fatalities",
+      "pedestrian fatality",
+      "pedestrian killed",
+      "pedestrianfatality",
+      "pedestriankilled",
+      "pedestrians",
+      "roadsafety",
+      "streetsafety",
+      "trafficdeath",
+      "trafficdeaths",
+      "trafficfatality",
+      "trafficviolence",
+      "visionzero"
+    ],
+    "locations": [
+      "Alabama",
+      "Alaska",
+      "Albuquerque",
+      "Arizona",
+      "Arkansas",
+      "Atlanta",
+      "Austin",
+      "Baltimore",
+      "Boston",
+      "California",
+      "Charlotte",
+      "Chicago",
+      "Colorado",
+      "Columbus",
+      "Connecticut",
+      "Dallas",
+      "Delaware",
+      "Denver",
+      "Detroit",
+      "Florida",
+      "Fort Worth",
+      "Fresno",
+      "Georgia",
+      "Hawaii",
+      "Houston",
+      "Idaho",
+      "Illinois",
+      "Indiana",
+      "Indianapolis",
+      "Iowa",
+      "Jacksonville",
+      "Kansas",
+      "Kentucky",
+      "Las Vegas",
+      "Los Angeles",
+      "Louisiana",
+      "Maine",
+      "Maryland",
+      "Massachusetts",
+      "Memphis",
+      "Miami",
+      "Michigan",
+      "Milwaukee",
+      "Minneapolis",
+      "Minnesota",
+      "Mississippi",
+      "Missouri",
+      "Montana",
+      "Nashville",
+      "Nebraska",
+      "Nevada",
+      "New Hampshire",
+      "New Jersey",
+      "New Mexico",
+      "New York",
+      "New York City",
+      "North Carolina",
+      "North Dakota",
+      "Ohio",
+      "Oklahoma",
+      "Oregon",
+      "Pennsylvania",
+      "Philadelphia",
+      "Phoenix",
+      "Portland",
+      "Rhode Island",
+      "Sacramento",
+      "San Antonio",
+      "San Diego",
+      "San Francisco",
+      "San Jose",
+      "Seattle",
+      "South Carolina",
+      "South Dakota",
+      "Tennessee",
+      "Texas",
+      "Tucson",
+      "Utah",
+      "Vermont",
+      "Virginia",
+      "Washington",
+      "Washington DC",
+      "West Virginia",
+      "Wisconsin",
+      "Wyoming"
+    ],
+    "sources": [
+      "10News.com",
+      "10TV",
+      "11Alive.com",
+      "12News",
+      "12newsnow.com",
+      "1340 WJOL",
+      "13newsnow.com",
+      "13wham.com",
+      "13WMAZ",
+      "1420 WBSM",
+      "1News",
+      "2 Urban Girls",
+      "23ABC News Bakersfield",
+      "24/7 Wall St.",
+      "352today",
+      "41NBC News",
+      "5 EYEWITNESS NEWS",
+      "5newsonline.com",
+      "6abc Philadelphia",
+      "70and73",
+      "828 News Now",
+      "92 Moose",
+      "93.3 myFM",
+      "95.5 WSB",
+      "97.3 ESPN",
+      "98.1 KHAK",
+      "9News",
+      "AAA",
+      "AAA Newsroom",
+      "AARP",
+      "AASHTO Journal",
+      "ABC Columbia",
+      "ABC News - Breaking News, Latest News and Videos",
+      "ABC10",
+      "ABC11 Raleigh-Durham",
+      "ABC13 Houston",
+      "ABC15 Arizona",
+      "ABC27",
+      "ABC30 Fresno",
+      "ABC4 Utah",
+      "ABC7 Chicago",
+      "ABC7 Los Angeles",
+      "ABC7 New York",
+      "ABC7 San Francisco",
+      "ABC7 WWSB",
+      "Abel Law Firm",
+      "Abilene Reporter-News",
+      "AboutLawsuits.com",
+      "ABP News",
+      "ABQ RAW",
+      "AccessWDUN",
+      "ACG AAA Newsroom",
+      "Action News 5",
+      "Action News Jax",
+      "Adelaide Now",
+      "Aeroflap",
+      "Ahwatukee Foothills News",
+      "AJC.com",
+      "Akron Beacon Journal",
+      "Al Arabiya English",
+      "AL.com",
+      "Alachua Chronicle",
+      "Alaska Public Media",
+      "Alaska's News Source",
+      "Albuquerque Journal",
+      "Alexandria Echo Press",
+      "all",
+      "allhitskzmk.com",
+      "Alton Herald",
+      "ALXnow",
+      "AM 800 CKLW",
+      "an17.com",
+      "Anadolu Ajansı",
+      "Anchorage Daily News",
+      "Animals 24-7",
+      "Annandale Today",
+      "Antigua News",
+      "AOL.com",
+      "AP News",
+      "Arash Law",
+      "ArcGIS StoryMaps",
+      "Archinect",
+      "Argus Leader",
+      "Arizona Daily Star",
+      "Arkansas Radio",
+      "Arkansas Times",
+      "Arlington Magazine",
+      "arlingtoncardinal.com",
+      "army.mil",
+      "Ars Technica",
+      "artforum.com",
+      "AsatuNews.co.id",
+      "Asbury Park Press",
+      "Ashland Source",
+      "ashlandcountypictures.com",
+      "AsiaOne",
+      "Aspen Daily News",
+      "Assemblymember Alex Lee",
+      "Associates Times",
+      "asteriskmag.com",
+      "Atlanta",
+      "Atlanta News First",
+      "Audacy",
+      "Augusta Free Press",
+      "Austin",
+      "Austin American-Statesman",
+      "Austin Monitor",
+      "Australian Broadcasting Corporation",
+      "Autoblog",
+      "autoevolution",
+      "Automotive News",
+      "Autoweek",
+      "Axios",
+      "AZ Family",
+      "AZ Luminaria",
+      "azcentral.com and The Arizona Republic",
+      "AZPM",
+      "AZPM News",
+      "b985.fm",
+      "Baltimore Fishbowl",
+      "Baltimore Magazine",
+      "Baltimore Sun",
+      "Baltimore Witness",
+      "Bangladesh Sangbad Sangstha (BSS)",
+      "Bangor Daily News",
+      "Banning Record Gazette",
+      "BarrieToday.com",
+      "Bayshore Broadcasting News Centre",
+      "Baytown Sun",
+      "Beaumont Enterprise",
+      "Beaver County Times",
+      "Belfast Telegraph",
+      "Belleville News-Democrat",
+      "Bellingham Herald",
+      "Benzie Record Patriot",
+      "Bergen Record",
+      "Berkeleyside",
+      "Bethesda Magazine",
+      "BG Independent News",
+      "Bicycle Coalition of Greater Philadelphia",
+      "Bicycle NSW",
+      "Bicycle Retailer & Industry News",
+      "bicycling",
+      "Bicycling Australia",
+      "bicycling.com",
+      "Big Country News",
+      "Big Island Now",
+      "Big Think",
+      "bikecommuting",
+      "BikePortland",
+      "BikinginLA",
+      "Billy Penn at WHYY",
+      "Biloxi Sun Herald",
+      "Bishop Accountability",
+      "Block Club Chicago",
+      "Blue Mountains Gazette",
+      "blue News",
+      "BlueRidgeNow.com",
+      "Bluffton Today",
+      "BocaNewsNow.com",
+      "Body Shop Business",
+      "Boise Dev",
+      "Borneo Post",
+      "boston",
+      "Boston 25 News",
+      "Boston Herald",
+      "Boston.com",
+      "Boulder Beat",
+      "Bradenton Herald",
+      "Braintree & Witham Times",
+      "Brampton Guardian",
+      "BreakingNews.ie",
+      "Bridge Michigan",
+      "BridgeDetroit",
+      "Briefly News",
+      "brimbanknorthwest.starweekly.com.au",
+      "Bring Me The News",
+      "Bristol Live",
+      "Britannica",
+      "Bronx Times",
+      "Brooklyn Paper",
+      "bsky.app",
+      "bts.gov",
+      "Burg Simpson",
+      "Burlington County Times",
+      "Burlington Free Press",
+      "Business Insider",
+      "Cache Valley Daily",
+      "Cal Coast News",
+      "CalBike",
+      "Calgary Herald",
+      "California Local",
+      "californiainjuryaccidentlawyer.com",
+      "Cambridge Day",
+      "Cambridge News",
+      "CambridgeToday.ca",
+      "Canadian Cycling Magazine",
+      "Canton Repository",
+      "Canyon News",
+      "Cap City News",
+      "Cape Cod Times",
+      "Cape Times",
+      "Cape Town ETC",
+      "capradio.org",
+      "Caribbean National Weekly",
+      "CarProUSA.com.",
+      "Carrazco Law",
+      "Carrier Management",
+      "Carrillo Law Firm, LLP",
+      "Cars.com",
+      "Carscoops",
+      "Carson Now",
+      "Cascade PBS",
+      "Casino.org",
+      "Cassville Democrat",
+      "Castanet",
+      "Castanet Kamloops",
+      "Cat Country 107.3",
+      "Cayman Compass",
+      "Cayman News Service",
+      "cbdnews.com.au",
+      "CBS 42",
+      "CBS News",
+      "CBS17.com",
+      "cbs19.tv",
+      "cbs19news.com",
+      "CBS7",
+      "cbs8.com",
+      "CBT News",
+      "Centers for Disease Control and Prevention | CDC (.gov)",
+      "Central Nebraska Today",
+      "Central New Jersey News",
+      "Central Oregon Daily",
+      "Central Valley TV",
+      "Centre Daily Times",
+      "Channel 3000",
+      "Chapelboro.com",
+      "Charleston City Paper",
+      "Charlotte Observer",
+      "Chattanooga Times Free Press",
+      "CHCH",
+      "CHEK News",
+      "chicago",
+      "Chicago Magazine",
+      "Chicago Sun-Times",
+      "Chicago Tribune",
+      "Chillicothe Gazette",
+      "CHON-FM",
+      "ChrisD.ca",
+      "Chron",
+      "CHS Capitol Hill Seattle News",
+      "CiberCuba",
+      "Cincinnati Enquirer",
+      "CIProud.com",
+      "Circulate San Diego",
+      "citizenportal.ai",
+      "Citrus Heights Sentinel",
+      "City Observatory",
+      "City of Arlington (.gov)",
+      "City of Austin (.gov)",
+      "City of Chicago (.gov)",
+      "City of New Braunfels, TX (.gov)",
+      "City of Philadelphia (.gov)",
+      "City of Portland, Oregon (.gov)",
+      "City of San Antonio (.gov)",
+      "City of Sevierville, TN",
+      "cityhub.com.au",
+      "CityNews Calgary",
+      "CityNews Edmonton",
+      "CityNews Kitchener",
+      "CityNews Vancouver",
+      "CityNews Winnipeg",
+      "Claremont COURIER",
+      "Clarksville Now",
+      "Classic City News",
+      "Cleveland 19 News",
+      "Cleveland.com",
+      "Click2Houston",
+      "ClickOnDetroit | WDIV Local 4",
+      "Clinton Herald",
+      "cnaw2news.com",
+      "CNBC",
+      "CNN",
+      "cnu.org",
+      "Coast Reporter",
+      "CoastTV",
+      "Cobb Courier",
+      "Collegiate Times",
+      "Colorado Department of Transportation (.gov)",
+      "Colorado Hometown Weekly",
+      "Colorado Politics",
+      "Colorado Public Radio",
+      "Colorado Springs Gazette",
+      "Columbia Community Connection",
+      "Columbia Journalism Review",
+      "Columbus",
+      "Columbus Ledger-Enquirer",
+      "Common Edge",
+      "Community Forward Redlands News",
+      "Community Impact | News",
+      "Community Newspaper Group",
+      "Complete Colorado",
+      "Concord Monitor",
+      "Congressman Kevin Mullin (.gov)",
+      "Connect The Watts",
+      "Construction Dive",
+      "Construction Index",
+      "Consumer Reports",
+      "ConsumerAffairs",
+      "Contra Costa News",
+      "Core77",
+      "Corpus Christi Caller-Times",
+      "Coshocton Tribune",
+      "Courier & Press",
+      "Courier-Post",
+      "Craig Medred",
+      "Craven Herald",
+      "Cross Timbers Gazette",
+      "crossroadstoday.com",
+      "Crowdfund Insider",
+      "CSUF News",
+      "CT Examiner",
+      "CT Insider",
+      "CT News Junkie",
+      "CTPost",
+      "cuindependent.com",
+      "CultureMap Dallas",
+      "CultureMap Fort Worth",
+      "CultureMap San Antonio",
+      "Cumbria Crack",
+      "Curbed",
+      "Curry Pilot",
+      "CW39 Houston",
+      "cycling",
+      "Cycling Ireland",
+      "Cycling Weekly",
+      "Cycling West",
+      "D.C. Policy Center",
+      "Daily Breeze",
+      "Daily Bulletin",
+      "Daily Camera",
+      "Daily Comet",
+      "Daily Echo",
+      "Daily Freeman",
+      "Daily Herald",
+      "Daily Hive",
+      "Daily Local",
+      "Daily News Hungary",
+      "Daily Post Nigeria",
+      "Daily Record",
+      "Daily Republic",
+      "Dailyfly News",
+      "dailyvoice.com",
+      "dailywire.com",
+      "Dakota News Now",
+      "Dallas",
+      "Dallas Express",
+      "Dallas News",
+      "Danville San Ramon",
+      "Darkhorse Press",
+      "Dayton Daily News",
+      "Daytona Beach News-Journal",
+      "DC News Now",
+      "DCist",
+      "Deadline Detroit",
+      "decaturish.com",
+      "Delaware State Police (.gov)",
+      "Delawareonline.com",
+      "DelmarvaNow.com",
+      "Denver",
+      "Denver Gazette",
+      "denver.streetsblog.org",
+      "Denver7",
+      "Denverite",
+      "Department of Transportation (.gov)",
+      "Deseret News",
+      "DeSoto Times-Tribune",
+      "Detroit Free Press",
+      "Diario AS",
+      "Discover Muscatine",
+      "dnronline.com",
+      "Door County Pulse",
+      "DPD Beat",
+      "drive.com.au",
+      "Duluth News Tribune",
+      "DW.com",
+      "Eagle Country 99.3",
+      "EalingToday",
+      "Earth911",
+      "East Bay Times",
+      "East Cobb News",
+      "East Idaho News",
+      "East PDX News",
+      "Eater Portland",
+      "Edmonton Journal",
+      "El Dorado News-Times",
+      "El Paso Times",
+      "Electrek",
+      "Engineering News-Record (ENR)",
+      "Enterprise News",
+      "Equal Justice Initiative",
+      "Erie Times-News",
+      "ERR",
+      "Essex Live",
+      "EurekAlert!",
+      "european-union.europa.eu",
+      "Everett Post",
+      "EverythingGP",
+      "EWN",
+      "Explore Big Sky",
+      "Extra.ie",
+      "Eye On Annapolis",
+      "facebook.com",
+      "Fairfax County (.gov)",
+      "Fairfield Sun Times",
+      "Fall River Herald News",
+      "Fall River Reporter",
+      "Farnham Herald",
+      "Fast Company",
+      "Fayetteville Flyer",
+      "Federal Highway Administration (.gov)",
+      "Fergus Now",
+      "Fernandina Observer",
+      "FFXnow",
+      "Fieldfisher",
+      "Firefighter Close Calls",
+      "FireRescue1",
+      "First Alert 4",
+      "First State Update",
+      "firstcoastnews.com",
+      "FlaglerLive",
+      "Flanagan & Bodenheimer",
+      "FloodList",
+      "Florida Atlantic University",
+      "Florida Highway Safety and Motor Vehicles (.gov)",
+      "Florida Politics",
+      "Florida Today",
+      "Folsom Times",
+      "Fontana Herald News",
+      "Forbes",
+      "Forsyth County News",
+      "Fort Worth Star-Telegram",
+      "Fortune",
+      "Foster's Daily Democrat",
+      "FourStatesHomepage.com",
+      "FOX 10 Phoenix",
+      "FOX 11 Los Angeles",
+      "FOX 13 News Utah",
+      "FOX 13 Seattle",
+      "FOX 13 Tampa Bay",
+      "FOX 17 West Michigan News",
+      "FOX 2",
+      "FOX 2 Detroit",
+      "FOX 26 Houston",
+      "FOX 29 Philadelphia",
+      "FOX 32 Chicago",
+      "FOX 35 Orlando",
+      "FOX 4 News Dallas-Fort Worth",
+      "FOX 5 Atlanta",
+      "FOX 5 DC",
+      "FOX 56 News",
+      "Fox 59",
+      "FOX 7 Austin",
+      "FOX 8 News",
+      "FOX 9 Minneapolis-St. Paul",
+      "FOX Carolina News",
+      "Fox News",
+      "fox10tv.com",
+      "FOX13 Memphis",
+      "FOX19 | Cincinnati",
+      "FOX21 News Colorado",
+      "fox23.com",
+      "FOX40.com",
+      "fox43.com",
+      "FOX4KC.com",
+      "FOX5 Vegas",
+      "fox56.com",
+      "fox5sandiego.com",
+      "FOX6 News Milwaukee",
+      "fox61.com",
+      "FOX8 WGHP",
+      "fox8live.com",
+      "Franklin County Now",
+      "Free Malaysia Today",
+      "Free Press Journal",
+      "Fremont News-Messenger",
+      "Fresno Bee",
+      "Fresnoland",
+      "Frontiers",
+      "fuckcars",
+      "Fullerton Observer",
+      "Fulton Sun",
+      "FUN 107",
+      "Furman University",
+      "Gainesville Sun",
+      "galvnews.com",
+      "GearJunkie",
+      "Geelong Advertiser",
+      "Georgetown University",
+      "Georgia Public Broadcasting",
+      "Gephardt Daily",
+      "Get The Coast",
+      "ggwash.org",
+      "Glasgow Times",
+      "GLK Law",
+      "Global NCAP",
+      "Go Local Prov",
+      "GoBlueRidge",
+      "GoLaurens.Com",
+      "Goldman Babboni Fernandez Murphy & Walsh",
+      "GOLF.com",
+      "Gonzales Weekly Citizen",
+      "gosanangelo.com",
+      "GoSuits",
+      "Gothamist",
+      "GOV.UK",
+      "gov1.com",
+      "Governing",
+      "governmentnews.com.au",
+      "Grand Forks Herald",
+      "Graphic Online",
+      "Great Falls Tribune",
+      "Greater Greater Washington",
+      "Greeley Tribune",
+      "Greenpeace",
+      "Greenville Journal",
+      "Greenville Online",
+      "Greenwich Free Press",
+      "Greenwich Time",
+      "grist.org",
+      "guampdn.com",
+      "Guelph News",
+      "Gulf Coast News and Weather",
+      "Gulf News",
+      "GulfLive.com",
+      "GV Wire",
+      "hachyderm.io",
+      "Halston Media Group",
+      "hammondstar.com",
+      "Harper's Magazine",
+      "Hartford Courant",
+      "Harvard Gazette",
+      "Harvard School of Engineering and Applied Sciences",
+      "Hattiesburg American",
+      "Havasu News",
+      "Hawaii News Now",
+      "Hawaii Tribune-Herald",
+      "Hawaiipolice.com",
+      "Heart of the Rockies Radio |",
+      "Heavy Duty Trucking",
+      "Hello Woodlands",
+      "Herald Series",
+      "Herald Sun",
+      "heraldextra.com",
+      "HeraldNet.com",
+      "High Country News",
+      "Hilton Head Island Packet",
+      "Hiru News",
+      "HISTORIC CITY NEWS",
+      "Hitchin Nub News",
+      "Home ❧ Current Affairs",
+      "Hometown News",
+      "Hometown Stations",
+      "Honest John",
+      "Honolulu Civil Beat",
+      "Honolulu Star-Advertiser",
+      "Hoodline",
+      "Hot Springs Sentinel Record",
+      "HotCars",
+      "Houma Today",
+      "Hour Detroit Magazine",
+      "House.gov",
+      "houston",
+      "Houston Chronicle",
+      "Houston Landing",
+      "Houston Public Media",
+      "HowStuffWorks",
+      "hpenews.com",
+      "HRC | Human Rights Campaign",
+      "Hudson County View",
+      "HuffPost",
+      "Hull Live",
+      "Huntington Now",
+      "Huntsville Doppler",
+      "hypefresh.com",
+      "Hyperallergic",
+      "IamExpat in the Netherlands",
+      "Idaho News 6",
+      "Idaho Press",
+      "Idaho State Journal",
+      "Idaho State Police (.gov)",
+      "Idaho Statesman",
+      "idiotsincars",
+      "IFLScience",
+      "Illawarra Mercury",
+      "iLoveKent",
+      "inc.com",
+      "Independent Mail",
+      "InDepthNH.org",
+      "IndexBox",
+      "Indianapolis Recorder",
+      "Indo-Canadian Voice",
+      "IndyStar",
+      "Informanté",
+      "InForum",
+      "injuryrelief.com",
+      "Inquirer.com",
+      "Inquirer.net",
+      "INQUIRER.net USA",
+      "INsauga",
+      "Inside Halton",
+      "Inside Lake",
+      "InsideHook",
+      "InsideNoVa.com",
+      "Insider NJ",
+      "instagram.com",
+      "Insurance Journal",
+      "International Business Times Australia",
+      "iontb.com",
+      "Iowa Capital Dispatch",
+      "Iowa City Press-Citizen",
+      "Iowa Now",
+      "Iowa State Daily",
+      "IPM Newsroom",
+      "Iredell Free News",
+      "Irish Examiner",
+      "Irish Mirror",
+      "IrishCentral",
+      "IrishCycle.com",
+      "irontontribune.com",
+      "IslanderNews.com",
+      "islands.com",
+      "Itemlive",
+      "ITVX",
+      "J&Y Law",
+      "jacobyandmeyers.com",
+      "Jamaica Observer",
+      "Jamaica Star",
+      "JaxToday",
+      "Jersey Shore Online",
+      "Jesup Press Sentinel",
+      "JoCo Report",
+      "Johns Hopkins Bloomberg School of Public Health",
+      "Johns Hopkins University",
+      "Johnson County Post",
+      "Jonesboro Right Now",
+      "journa.host",
+      "Journal & Courier",
+      "Journal & Topics",
+      "K2 Radio",
+      "K8 News | Jonesboro, Arkansas",
+      "KABB",
+      "KADN News 15",
+      "KAKE",
+      "Kalinga TV",
+      "Kansas City Star",
+      "Kansas Reflector",
+      "kare11.com",
+      "KATC",
+      "KATU",
+      "KATV",
+      "katv.com",
+      "Katy Times",
+      "Kauai Now",
+      "KBAK",
+      "KBOI",
+      "KBTX News 3",
+      "KBZK News",
+      "KCAU 9 News",
+      "KCBD",
+      "KCCI",
+      "KCENTV.com",
+      "KCHA NEWS",
+      "KCRA",
+      "KCRG",
+      "KCTV",
+      "KCUR",
+      "KDBC",
+      "KDRV",
+      "KDVR",
+      "KECO 96.5FM",
+      "Keizertimes",
+      "KELOLAND.com",
+      "kens5.com",
+      "Kent Online",
+      "Kentucky Today",
+      "KERA News",
+      "KETK.com",
+      "KETV",
+      "Kevin Drum – Cats, charts, and politics",
+      "Key West The Newspaper",
+      "KEYE",
+      "Keys Weekly Newspapers",
+      "KEZI",
+      "KFDM",
+      "KFF Health News",
+      "KFOR.com",
+      "KFOX",
+      "KFVS12",
+      "KFYR-TV",
+      "KGAB",
+      "KGET.com",
+      "KGUN 9",
+      "KGW",
+      "KHBS",
+      "KHON2",
+      "KHOU",
+      "KHQA",
+      "KHTS Radio",
+      "kiiitv.com",
+      "KIMT",
+      "Kinder Institute for Urban Research | Rice University",
+      "KING5.com",
+      "kingcityrustler.com",
+      "KION Central Coast",
+      "KIRO 7 News Seattle",
+      "Kitsap Sun",
+      "KITV",
+      "KJCT",
+      "KJRH",
+      "KJZZ",
+      "kjzz.com",
+      "KKTV",
+      "KLAS 8 News Now",
+      "KLFY.com",
+      "KLKN-TV",
+      "KLTV.com",
+      "KMBC",
+      "kmjnow.com",
+      "KMPH",
+      "KMTR",
+      "KMTV 3 News Now",
+      "KMVT",
+      "KMZU.com",
+      "KNKX",
+      "knopnews2.com",
+      "knoxradio.com",
+      "Knoxville News Sentinel",
+      "Knoxville Police Department (.gov)",
+      "KNPR",
+      "KNSI",
+      "KOAA News 5",
+      "KOAM News Now",
+      "KOAT",
+      "KOB.com",
+      "KOCO",
+      "KOIN.com",
+      "KOKH",
+      "KOLD",
+      "KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+      "KOLO | 8 News Now",
+      "KOMO",
+      "KOMU 8",
+      "Koran Manado",
+      "KOWB 1290",
+      "KPAX News",
+      "KPEL 96.5",
+      "KPIC",
+      "KPLC 7 News",
+      "kpq.com",
+      "KPTV",
+      "KQED",
+      "KQKI News",
+      "KRCG",
+      "KRCR",
+      "KRDO",
+      "Kreamer Funeral Home & Crematory, Inc.",
+      "krem.com",
+      "KRGV",
+      "KRIS 6 News Corpus Christi",
+      "KROC-AM",
+      "KRON4",
+      "Kronen Zeitung",
+      "KRQE",
+      "KRTV",
+      "KRWG Public Media",
+      "KRXI",
+      "KSAL News",
+      "KSAT",
+      "KSBW",
+      "KSBY News",
+      "KSDK",
+      "KSHB 41 Kansas City",
+      "KSL NewsRadio",
+      "KSL TV 5",
+      "KSL.com",
+      "KSLA",
+      "KSNB",
+      "KSNT 27 News",
+      "KSNV",
+      "Ksst Radio",
+      "KSWO 7News",
+      "KTAR News 92.3 FM",
+      "KTBS 3",
+      "KTEN",
+      "KTIV",
+      "KTLA",
+      "ktnv.com",
+      "KTRE",
+      "KTTN",
+      "KTUL",
+      "KTVB",
+      "KTVH",
+      "KTVL",
+      "KTVN",
+      "KTVQ",
+      "KTVU",
+      "KUER",
+      "KUNM",
+      "KUOW",
+      "KUSA.com",
+      "KUTV",
+      "Kuwait Times",
+      "KVAL",
+      "KVII",
+      "KVOA",
+      "KVPR",
+      "KVUE",
+      "KWCH",
+      "KWKT - FOX 44",
+      "KWQC",
+      "KWTX",
+      "KWWL",
+      "KX News",
+      "KXAN Austin",
+      "KXII",
+      "KXLF.com",
+      "KXXV",
+      "KY3",
+      "lagunabeachindy.com",
+      "LAist",
+      "Lake and McHenry County Scanner",
+      "Lake County News,California",
+      "Lakeland Ledger",
+      "Lakeshore Public Media",
+      "Lakewood/East Dallas Advocate",
+      "Lancaster Eagle-Gazette",
+      "Land Line Media",
+      "Lansing State Journal",
+      "Laredo Morning Times",
+      "Las Cruces Sun-News",
+      "Las Vegas Review-Journal",
+      "Las Vegas Sun",
+      "Law and Crime News",
+      "Law Office of Edelstein Martin & Nelson",
+      "Le Monde.fr",
+      "Lebanon Daily News",
+      "Leesburg Daily Commercial",
+      "Leesburg-News.com",
+      "Left Hand Valley Courier",
+      "Legal Reader",
+      "Lehighvalleylive.com",
+      "LehighValleyNews.com",
+      "Lerner and Rowe Injury Attorneys",
+      "LEX 18 News",
+      "LEX18",
+      "Lexington Herald Leader",
+      "LI Press",
+      "LimaOhio.com",
+      "Limitless Media News",
+      "Lincoln Journal Star",
+      "Lincolnshire Live",
+      "LincolnshireWorld",
+      "LincsOnline",
+      "Live 5 News",
+      "Live 95.9",
+      "LiveNOW from FOX",
+      "LiveWire Calgary",
+      "LkldNow",
+      "lobservateur.com",
+      "Local 3 News",
+      "Local News Matters",
+      "Local Profile",
+      "local21news.com",
+      "localaccidentreports.com",
+      "localmemphis.com",
+      "Lohud",
+      "London Evening Standard",
+      "London Free Press",
+      "London Now",
+      "Long Beach Post",
+      "Long Beach Press-Telegram",
+      "Long Beach Watchdog",
+      "Long Island Life & Politics",
+      "LongIsland.com",
+      "Lookout Eugene-Springfield",
+      "Los Angeles County Public Health (.gov)",
+      "Los Angeles Daily News",
+      "Los Angeles Times",
+      "LosAngeles",
+      "LoudounNow.com",
+      "Louisville Public Media",
+      "lsureveille.com",
+      "Lubbock Avalanche-Journal",
+      "LVSportsBiz",
+      "LymeDisease.org",
+      "Macomb Daily",
+      "Macon Telegraph",
+      "Magnolia Reporter",
+      "Mainstreet Daily News Gainesville",
+      "Malawi24",
+      "MaltaToday",
+      "Manchester Evening News",
+      "Manhattan Beach News",
+      "Manila Bulletin",
+      "Marco Eagle",
+      "MarketWatch",
+      "mas.to",
+      "MassLive.com",
+      "mastodon.online",
+      "mastodon.social",
+      "mastodon.world",
+      "MeatEater",
+      "Medical Xpress",
+      "Men's Journal",
+      "Menafn.com",
+      "Mental Floss",
+      "Merced Sun-Star",
+      "Messenger-Inquirer",
+      "Metro.co.uk",
+      "MetroWest Daily News",
+      "Miami",
+      "Miami Herald",
+      "Miami New Times",
+      "micromobilityNYC",
+      "Midland Reporter-Telegram",
+      "Milford LIVE!",
+      "Milwaukee Independent",
+      "Milwaukee Journal Sentinel",
+      "MinneapoliMedia",
+      "Minneapolis",
+      "Minneapolis Times",
+      "Minnesota Reformer",
+      "minotdailynews.com",
+      "Mint",
+      "Mirage News",
+      "Mission Local",
+      "Mitchell Republic",
+      "MLive.com",
+      "Mmegi Online",
+      "mn crime",
+      "Mobileye",
+      "Modesto Bee",
+      "Momentum Mag",
+      "Monroe Evening News",
+      "Monroe Local News",
+      "Montclair Local News",
+      "Monterey County Weekly",
+      "Montgomery Community Media",
+      "Montgomery County, MD (.gov)",
+      "Morris County NJ News | Daily Record",
+      "Mother Jones",
+      "Mothership",
+      "Motor1.com",
+      "MotorBiscuit",
+      "Motorcycle.com",
+      "Motorcycles Data",
+      "MotorWeek",
+      "Mountain Democrat",
+      "MPR News",
+      "MS NOW",
+      "MSN",
+      "mstdn.social",
+      "MultiVu",
+      "Music Mayhem",
+      "Must Read Alaska",
+      "My Keene Now",
+      "My London",
+      "My Met Media",
+      "mydailyrecord.com",
+      "MyEasternShoreMD",
+      "myfox28columbus.com",
+      "MyHorryNews.com",
+      "mynews4.com",
+      "MyNewsLA.com",
+      "MyNorthwest.com",
+      "MyRGV.com",
+      "Myrtle Beach Sun News",
+      "MySA",
+      "MyTexasDaily.com",
+      "myvalleynews.com",
+      "N.C. Department of Transportation (.gov)",
+      "Naples Daily News",
+      "Nashville Banner",
+      "Nashville.gov",
+      "National Conference of State Legislatures",
+      "NationalWorld",
+      "Nature",
+      "Navajo Times",
+      "NBC 5 Chicago",
+      "NBC 5 Dallas-Fort Worth",
+      "NBC 6 South Florida",
+      "NBC 7 San Diego",
+      "NBC Bay Area",
+      "NBC Boston",
+      "NBC Connecticut",
+      "NBC Los Angeles",
+      "NBC Montana",
+      "NBC New York",
+      "NBC News",
+      "NBC10 Philadelphia",
+      "NBC4 Washington",
+      "NBC4 WCMH-TV",
+      "NCHStats",
+      "NEA Report",
+      "Nebraska Public Media",
+      "Nevada Appeal",
+      "Nevada Current",
+      "Nevada Globe",
+      "New Bedford Guide",
+      "New Brunswick Today",
+      "New Civil Engineer",
+      "New Hampshire Magazine",
+      "New Haven Independent",
+      "New Haven Register",
+      "New Jersey 101.5",
+      "New Jersey Herald",
+      "New Jersey Monitor",
+      "New Jersey Monthly Magazine",
+      "New Mexico Political Report",
+      "New Mexico State University",
+      "New Santa Ana",
+      "New York Daily News",
+      "New York Post",
+      "New York State Police (.gov)",
+      "NewmarketToday.ca",
+      "Newport Daily News",
+      "Newport Dispatch",
+      "News & Star",
+      "News 12 - Hudson Valley",
+      "News 5 Cleveland WEWS",
+      "News 9",
+      "News and Sentinel",
+      "News Channel 3-12",
+      "News Channel 5 Nashville",
+      "News Dakota",
+      "News From The States",
+      "News On 6",
+      "News Radio 710 KEEL",
+      "News Shopper",
+      "News-Herald.net",
+      "News-Press NOW",
+      "News-Times",
+      "News.com.au",
+      "news.meaww.com",
+      "News12 | Bronx",
+      "News12 | Brooklyn",
+      "News12 | Connecticut",
+      "News12 | Long Island",
+      "News12 | New Jersey",
+      "News12 | Westchester",
+      "News18",
+      "News24",
+      "News4JAX",
+      "news8000.com",
+      "newscentermaine.com",
+      "NewsChannel20",
+      "Newsday",
+      "newsie.social",
+      "newsline.com",
+      "NewsNation",
+      "NewsRadio 560 KPQ",
+      "Newsradio WGAN |",
+      "Newstalk KGVO",
+      "Newsweek",
+      "newswest9.com",
+      "Newswise",
+      "Next City",
+      "NextSTL",
+      "Niagara Now",
+      "Niagara This Week",
+      "Niskanen Center",
+      "NJ PEN",
+      "NJ Spotlight News",
+      "NJ.com",
+      "NL Times",
+      "NOLA.com",
+      "Nonstop Local News",
+      "Nonstop Local News Montana",
+      "North Carolina Health News",
+      "North Coast Current",
+      "North Penn Now",
+      "North Shore News",
+      "North Wales Live",
+      "NorthcentralPA.com",
+      "Northern Kentucky Tribune",
+      "NorthEscambia.com",
+      "Northwest Arkansas Democrat-Gazette",
+      "Norwalk Hour",
+      "Norwich Bulletin",
+      "Norwood News",
+      "nottinghammd.com",
+      "Now Georgia",
+      "NPR",
+      "NRcolumbus.com",
+      "NTSB (.gov)",
+      "nwitimes.com",
+      "NYC.gov",
+      "NYCbike",
+      "NZ Herald",
+      "Observer and Eccentric Newspapers",
+      "Observer Local News",
+      "Ocala Gazette",
+      "Ocala StarBanner",
+      "Ocala-News.com",
+      "ocolly.com",
+      "Ocracoke Observer",
+      "Odessa American",
+      "Ohio Capital Journal",
+      "Ohio Governor Mike DeWine (.gov)",
+      "Oil City News",
+      "Oklahoma City Free Press",
+      "oklahoma.gov",
+      "Omaha World-Herald",
+      "Online Athens",
+      "OnMilwaukee",
+      "Orange County Register",
+      "orange county tribune",
+      "Oregon Coast Beach Connection",
+      "Oregon Public Broadcasting - OPB",
+      "Oregon State University",
+      "OregonLive.com",
+      "OrilliaMatters.com",
+      "orlando",
+      "OU Daily",
+      "OurQuadCities",
+      "OurTownNY.com",
+      "Outdoors with Bear Grylls",
+      "Outlier Media",
+      "Outlook Newspapers",
+      "Outside Magazine",
+      "OzarksFirst.com",
+      "Pahrump Valley Times",
+      "Palo Alto Daily Post",
+      "Palo Alto Online",
+      "Park Record",
+      "Parnall Law Firm",
+      "Pasco News",
+      "Patch",
+      "PBS",
+      "PennLive.com",
+      "Pensacola News Journal",
+      "People.com",
+      "PeopleForBikes",
+      "Peoria Journal Star",
+      "PerthNow",
+      "Petaluma Argus-Courier",
+      "Peterborough Telegraph",
+      "philadelphia",
+      "Philadelphia Magazine",
+      "PhillyBurbs",
+      "PhillyVoice",
+      "phoenix",
+      "pinecountynews.com",
+      "Pioneer Press",
+      "Pittsburgh City Paper",
+      "Pittsburgh Post-Gazette",
+      "PIX11",
+      "Planet Detroit",
+      "Planetizen",
+      "Pleasanton Weekly",
+      "Politico",
+      "Popular Science",
+      "PoPville",
+      "Port Arthur News",
+      "Port City Daily",
+      "Portland",
+      "Post and Courier",
+      "pottsmerc.com",
+      "PR Daily",
+      "PR Newswire",
+      "Press & Sun-Bulletin",
+      "pressenterprise.com",
+      "PressReader",
+      "Prince William Times",
+      "PropertyCasualty360",
+      "PubliCola -",
+      "Pullman Radio",
+      "Q106.5",
+      "q961.com",
+      "qnotescarolinas.com",
+      "Queen City News",
+      "Queensland Police News",
+      "qz.com",
+      "RAC",
+      "Racket MN",
+      "Radio Free Europe/Radio Liberty",
+      "Radio NWTN",
+      "Rails to Trails Conservancy",
+      "Raleigh News & Observer",
+      "Rand Spear",
+      "Rayo",
+      "Reading Chronicle",
+      "Realtor.com",
+      "Reason Foundation",
+      "Rebein Law",
+      "Record Searchlight",
+      "Red Bank Green",
+      "Redheaded Blackbelt",
+      "Reno Gazette Journal",
+      "repairerdrivennews.com",
+      "Republic World",
+      "Reuters",
+      "Rhode Island Current",
+      "Rhode Island Department of Transportation (.gov)",
+      "Richland Source",
+      "Richmond Times-Dispatch",
+      "richmondmagazine.com",
+      "River Journal Online",
+      "RiverBender.com",
+      "RLS Media",
+      "RNZ",
+      "Road.cc",
+      "roadcam",
+      "Robert A. Solomon, P.C.",
+      "Rock Hill Herald",
+      "Rockland Report",
+      "Rocktown Now",
+      "Rogue Valley Times",
+      "Rolling Stone",
+      "Rough Draft Atlanta",
+      "RRSpin",
+      "Runner's World",
+      "Rutherford Source",
+      "rwbpress.com",
+      "Sacramento Bee",
+      "sacramentoinjuryattorneysblog.com",
+      "Salam & Associates",
+      "Salem Reporter",
+      "San Antonio Current",
+      "San Antonio Express-News",
+      "San Antonio Report",
+      "San Benito News",
+      "San Diego Union-Tribune",
+      "San Francisco Chronicle",
+      "San Gabriel Valley Tribune",
+      "San José Spotlight",
+      "San Mateo Daily Journal",
+      "sanangelolive.com",
+      "sandmountainreporter.com",
+      "sanfrancisco",
+      "SanJose",
+      "sanmarcosrecord.com",
+      "Santa Fe New Mexican",
+      "Santa Fe Reporter",
+      "Santa Maria Times",
+      "SaportaReport",
+      "Sarasota Herald-Tribune",
+      "Savannah Morning News",
+      "Scioto Post",
+      "Scott Coop",
+      "Scottish Daily Express",
+      "Scranton Law Firm",
+      "Scripps News",
+      "Seacoastonline.com",
+      "SearchLight.vc",
+      "Seattle",
+      "Seattle Bike Blog",
+      "Seattle Met",
+      "Seattle Transit Blog",
+      "Seattle.gov",
+      "Seattlepi.com",
+      "Secret Chicago",
+      "Secret DC",
+      "Sedona Red Rock News",
+      "Sentinel Colorado",
+      "SF Weekly",
+      "sfba.social",
+      "SFBay.ca",
+      "SFGATE",
+      "SFist",
+      "Shaw Local",
+      "ShefNews",
+      "Shelterforce",
+      "Sherwood News",
+      "Shetland Times",
+      "Shore Daily News",
+      "Shore News Network",
+      "Sierra Club",
+      "Sikh24.com",
+      "SILive.com",
+      "Simi Valley Acorn",
+      "Sioux Falls Live",
+      "SkyHiNews.com",
+      "SlashGear",
+      "Slate",
+      "Smart Cities Dive",
+      "SmartAsset.com",
+      "SMH.com.au",
+      "Smith Mountain Eagle",
+      "Smithsonian Magazine",
+      "Somerset Live",
+      "Source New Mexico",
+      "Source ONE News",
+      "South Bend Tribune",
+      "South China Morning Post",
+      "South Seattle Emerald",
+      "South Tahoe Now",
+      "SouthCoastToday.com",
+      "Southend Echo",
+      "Southern Maryland News Net",
+      "Southland App",
+      "southwalesguardian.co.uk",
+      "Space Coast Daily",
+      "Spectrum News",
+      "Spectrum News 13",
+      "Spectrum News NY1",
+      "Sportsnet",
+      "Spot On Alabama",
+      "Springfield Daily Citizen",
+      "Springfield News-Leader",
+      "St. Albans Messenger",
+      "St. Augustine Record",
+      "St. George News",
+      "St. Johns Citizen",
+      "staffordshire-live.co.uk",
+      "Stamford Advocate",
+      "Star Tribune",
+      "Star-Gazette",
+      "starcitytv.com",
+      "State Farm",
+      "State of Hawaii Department of Transportation (.gov)",
+      "State of Mississippi (.gov)",
+      "StateCollege.com",
+      "Stateline",
+      "Statesman Journal",
+      "Statista",
+      "Statistique Canada",
+      "Sticky Bottle",
+      "STLtoday.com",
+      "Stocktonia",
+      "Streets.mn",
+      "Streetsblog California",
+      "Streetsblog Chicago",
+      "Streetsblog Los Angeles",
+      "Streetsblog Massachusetts",
+      "Streetsblog New York City",
+      "Streetsblog San Francisco",
+      "Streetsblog USA",
+      "Study International",
+      "Stuff",
+      "Sudbury News",
+      "SummitDaily.com",
+      "Sun Sentinel",
+      "sungazette.com",
+      "SunStar Publishing Inc.",
+      "Surrey Live",
+      "Swindon Advertiser",
+      "SWOV",
+      "Tacoma News Tribune",
+      "Tahoe Daily Tribune",
+      "Talk of the Sound",
+      "Tallahassee Democrat",
+      "Tallahassee Reports",
+      "Tampa Bay 28",
+      "Tampa Bay Times",
+      "Tampa Free Press",
+      "TAPinto",
+      "Taunton Daily Gazette",
+      "TCU 360",
+      "Telegraph and Argus",
+      "TelegraphHerald.com",
+      "Texomashomepage.com",
+      "The Acorn",
+      "The Advocate",
+      "The Alexandria Brief",
+      "The Ames Tribune",
+      "The Argus",
+      "The Arizona Republic",
+      "The Arkadelphian",
+      "The Arkansas Democrat-Gazette",
+      "The Asheville Citizen Times",
+      "The Atlantic",
+      "The Augusta Chronicle",
+      "The Baffler",
+      "The Bakersfield Californian",
+      "The Baylor Lariat",
+      "The BayNet",
+      "The Bedford Citizen",
+      "The Berkeley Scanner",
+      "The Berkshire Eagle",
+      "The Boca Raton Tribune",
+      "The Bolton News",
+      "The Boston Globe",
+      "The Brunswick News",
+      "The Brussels Times",
+      "The Business Journals",
+      "The Business Press",
+      "The Canberra Times",
+      "The Center Square",
+      "The Citizen",
+      "The Clarion-Ledger",
+      "The Coast News Group",
+      "The Colorado Sun",
+      "The Coloradoan",
+      "The Columbus Dispatch",
+      "The Commercial Appeal",
+      "The Conversation",
+      "The Conway Daily Sun",
+      "The Courier-Journal",
+      "The Daily Illini",
+      "The Daily Item",
+      "The Daily News - Jacksonville, NC",
+      "The Daily News Journal",
+      "The Daily News of Newburyport",
+      "The Daily Progress",
+      "The Daily Texan",
+      "The Davis Enterprise",
+      "The Denver Post",
+      "The Des Moines Register",
+      "The Desert Sun",
+      "The Detroit News",
+      "The Durango Herald",
+      "The East Hampton Star",
+      "The Eno Center for Transportation",
+      "The Express Tribune",
+      "The Fayetteville Observer",
+      "The Flag - AM 1100 and FM 92.3 WZFG",
+      "The Florida Times-Union",
+      "The Georgetowner",
+      "The Georgia Straight",
+      "The Georgia Sun",
+      "The Globe and Mail",
+      "The Grand Junction Daily Sentinel",
+      "The Guam Daily Post",
+      "The Harvard Crimson",
+      "The Henderson News",
+      "The Herald",
+      "The Herald-Mail",
+      "The Hill",
+      "The Hindu",
+      "The Holland Sentinel",
+      "The Hoya",
+      "The Indian Express",
+      "The Irish Independent",
+      "The Irish News",
+      "The Irish Sun",
+      "The Ithaca Voice",
+      "The Jaxson",
+      "The Journalist's Resource",
+      "The Killeen Daily Herald",
+      "The Laconia Daily Sun",
+      "The Legal Advocate",
+      "The Maine Wire",
+      "The Mary Sue",
+      "The Media Line",
+      "The Medical University of South Carolina",
+      "The Mercury News",
+      "The Mirror",
+      "The Mirror US",
+      "The MoCo Show -",
+      "The Morning Call",
+      "The Moscow Times",
+      "The N'West Iowa REVIEW",
+      "The Napa Valley Register",
+      "The New Indian Express",
+      "The New York Times",
+      "The New Yorker",
+      "The Newark Advocate",
+      "The News Leader | Staunton, VA",
+      "The News-Gazette",
+      "The News-Press",
+      "The News-Star",
+      "The Newtown Bee",
+      "The Nightly",
+      "The Norfolk Daily News",
+      "The Northern Echo",
+      "The Northwest Florida Daily News",
+      "The Oakland Press",
+      "The Oaklandside",
+      "The Oklahoman",
+      "The Olympian",
+      "The Pagosa Springs Sun",
+      "The Palm Beach Post",
+      "The Palm Springs Post",
+      "The Patriot Ledger",
+      "The Portland Press Herald",
+      "The Portland Tribune",
+      "The Press Democrat",
+      "The Progress Index",
+      "The Providence Journal",
+      "The Pryor Information Publication",
+      "The Quad-City Times",
+      "The Red & Black",
+      "The Register-Guard",
+      "The Regulatory Review",
+      "The Roanoke Rambler",
+      "The Rogersville Review",
+      "The Sacramento Observer",
+      "The Saline Courier",
+      "The Salt Lake Tribune",
+      "The San Francisco Standard",
+      "The Santa Barbara Independent",
+      "The Scottish Sun",
+      "The Seattle Times",
+      "The Southern Maryland Chronicle",
+      "The Spec",
+      "The Spokesman-Review",
+      "The St Kitts Nevis Observer",
+      "The Stanford Daily",
+      "The State",
+      "The State Journal-Register",
+      "The State Press",
+      "The Straits Times",
+      "The Sun",
+      "The Sun Times News",
+      "The Tennessean",
+      "The Texas Tribune",
+      "The Tico Times",
+      "The Times",
+      "The Times of Israel",
+      "The Topeka Capital-Journal",
+      "The Town Talk",
+      "The Tuscaloosa News",
+      "The TV Cave",
+      "The University of North Carolina at Chapel Hill",
+      "The Urbanist",
+      "The Verge",
+      "The Vibes",
+      "The Virginian-Pilot",
+      "The Washington Informer",
+      "The Washington Post",
+      "The Well News",
+      "The West Australian",
+      "The White River Valley Herald",
+      "The Wilson Times",
+      "The Winchester Star",
+      "The World from PRX",
+      "the-sun.com",
+      "thebanner.com",
+      "thebusinessjournal.com",
+      "TheCityFix",
+      "TheDailyJournal.com",
+      "thedailynews.cc",
+      "TheDCLine.org",
+      "thegazette.com",
+      "theheraldtimes.com",
+      "thejoltnews.com",
+      "thelocalnews.news",
+      "thencbeat.com",
+      "thesfnews.com",
+      "thestar.co.uk",
+      "TheTravel",
+      "TheTrucker.com",
+      "thezebra.org",
+      "thv11.com",
+      "Time Magazine",
+      "Time Out Worldwide",
+      "Times Argus",
+      "Times Colonist",
+      "Times Herald-Record",
+      "Times of Malta",
+      "Times of San Diego",
+      "Times Record News",
+      "Times Reporter",
+      "Times Union",
+      "timesdaily.com",
+      "Tioga Publishing",
+      "TMJ4 News",
+      "TMZ",
+      "TODAY.com",
+      "Today's Northumberland",
+      "Toledo Blade",
+      "TommieMedia",
+      "Toronto Life",
+      "Toronto Police Service",
+      "Toronto.com",
+      "TPG Online Daily",
+      "Traffic Technology Today",
+      "transit",
+      "Transportation For America",
+      "TransportXtra",
+      "Travel And Tour World",
+      "TravelPulse",
+      "Treasure Coast News",
+      "Trellis Group (formerly GreenBiz)",
+      "Tri-City Herald",
+      "Triangle Blog Blog",
+      "Triathlete",
+      "Tribeca Trib",
+      "TribLIVE.com",
+      "Trinidad and Tobago Newsday",
+      "Trinidad Express Newspapers",
+      "Tucson Sentinel",
+      "Tulsa World",
+      "Tuscaloosa Thread",
+      "TVMnews.mt",
+      "TVO",
+      "Two River Times",
+      "U.S. Government Accountability Office (.gov)",
+      "U.S. News & World Report",
+      "UBC Faculty of Medicine",
+      "UDOT (.gov)",
+      "UK Parliament",
+      "UKNow",
+      "UL Lawyers",
+      "UMass Amherst",
+      "UNC Research",
+      "UNECE",
+      "Unfiltered with Kiran",
+      "UNILAD",
+      "UnionLeader.com",
+      "universeodon.com",
+      "University of Chicago News",
+      "University of Hawaii System",
+      "University of Nevada, Las Vegas | UNLV",
+      "University of South Florida",
+      "UNM Newsroom",
+      "UNSW Sydney",
+      "upi.com",
+      "Upper Michigan's Source",
+      "Urban Institute",
+      "Urban Milwaukee",
+      "urbanists.social",
+      "Urbanize Atlanta",
+      "urbanplanning",
+      "USA Cycling",
+      "USA Today",
+      "USAFacts",
+      "Utah Public Radio",
+      "UTHSC News",
+      "UW Magazine",
+      "UW-Milwaukee",
+      "Valley News",
+      "Valley News Live",
+      "ValuePenguin",
+      "Vancouver Is Awesome",
+      "Vancouver Sun",
+      "Ventura County Star",
+      "Verite News",
+      "Vermont Daily Chronicle",
+      "VernonReporter",
+      "Vero News",
+      "VICE",
+      "Victorville Daily Press",
+      "Villages-News.com",
+      "Virginia Department of Transportation (.gov)",
+      "Virginia Mercury",
+      "Virginia Tech News",
+      "Visalia Times-Delta",
+      "VOA - Voice of America English News",
+      "vocal.media",
+      "Voronoi by Visual Capitalist",
+      "vox.com",
+      "VPM",
+      "VTDigger",
+      "VVNG",
+      "WAAY 31 News",
+      "WABE",
+      "WABI",
+      "wach.com",
+      "WAFB",
+      "WAFF",
+      "WAGM",
+      "WAKA 8",
+      "WALB",
+      "Wales Online",
+      "WAMU",
+      "WANE 15",
+      "WAOW",
+      "WAPT",
+      "WarwickPost.com",
+      "Washington State Patrol (.gov)",
+      "washingtondc",
+      "Washingtonian",
+      "Waste Today -",
+      "WATE 6 On Your Side",
+      "Wausau Daily Herald",
+      "WAVE News",
+      "WAVY.com",
+      "WBAL-TV",
+      "WBAY",
+      "WBEZ Chicago",
+      "WBFF",
+      "WBIR",
+      "WBKO",
+      "WBMA",
+      "WBOC TV",
+      "WBOY.com",
+      "WBRC",
+      "WBRZ",
+      "WBTV",
+      "WBTW",
+      "WBUR",
+      "WCAX",
+      "WCBD News 2",
+      "WCCB Charlotte",
+      "WCIA.com",
+      "WCIV",
+      "WCJB",
+      "WCNC",
+      "WCPO 9 Cincinnati",
+      "WCTI",
+      "WCTV",
+      "WCVB",
+      "WCYB",
+      "WDAM-TV",
+      "WDBJ7",
+      "WDEL",
+      "WDHN",
+      "WDIO.com",
+      "WDRB",
+      "WDSU",
+      "WEAR-TV",
+      "weareiowa.com",
+      "WECT | TV6",
+      "WEEK | 25 News Now",
+      "wehotimes.com",
+      "WEHOville",
+      "Welcome to the United Nations",
+      "WESH",
+      "West Bridgford Wire",
+      "West Central Tribune",
+      "West Orange Times Observer",
+      "West Side Rag",
+      "West Virginia Watch",
+      "Westerly Sun",
+      "Western Australian Government",
+      "Western Mass News",
+      "WesternSlopeNow.com",
+      "Westword",
+      "wevv.com",
+      "WFAA",
+      "WFIE | 14 News",
+      "wfiwradio.com",
+      "WFLA",
+      "WFMJ",
+      "wfmynews2.com",
+      "WFRV Local 5",
+      "WFSB",
+      "WFTV",
+      "WFXB",
+      "WFYI",
+      "WGAL",
+      "WGME",
+      "WGN-TV",
+      "WGNO",
+      "WGNS Radio",
+      "WGRZ",
+      "WGTD",
+      "WGXA",
+      "whas11.com",
+      "What's Up Newp",
+      "WHEC.com",
+      "WHIO TV",
+      "WhistleOut",
+      "Whitman-Hanson Express •",
+      "WHKY",
+      "WHNT.com",
+      "WHO13.com",
+      "whopam.com",
+      "WHQR",
+      "WHSV",
+      "WHYY",
+      "WIBC",
+      "WIBW",
+      "Wichita Eagle",
+      "Wicked Local",
+      "wicz.com",
+      "Willamette Week",
+      "Wilmington Star-News",
+      "WILX",
+      "Windsor Star",
+      "WINK News",
+      "Winnipeg Free Press",
+      "WIRED",
+      "Wiregrass Daily News",
+      "WIS News 10",
+      "Wisconsin State Journal",
+      "wisconsinrapidstribune.com",
+      "WISH-TV",
+      "WISN",
+      "WITN",
+      "WIVB News 4",
+      "wizmnews.com",
+      "WJAC",
+      "WJAR",
+      "WJBF",
+      "WJCL",
+      "WJCT News 89.9",
+      "WJHG",
+      "WJHL",
+      "WJLA",
+      "WJRT ABC12",
+      "WJTV",
+      "WKBN.com",
+      "WKBW",
+      "WKEF",
+      "WKMG",
+      "WKOW",
+      "WKRC",
+      "WKRG",
+      "WKRN News 2",
+      "WKVI Information Center",
+      "WKYC",
+      "WKYT",
+      "WLBT",
+      "WLFI News 18",
+      "WLKY",
+      "WLOS",
+      "WLOX",
+      "WLRN",
+      "WLTX",
+      "WLUK",
+      "WLWT",
+      "WMAR 2 News Baltimore",
+      "WMBF",
+      "WMNF 88.5 FM",
+      "WMSN",
+      "WMTV 15 NEWS",
+      "WMTW",
+      "WMUR",
+      "WNBF News Radio",
+      "WNDU",
+      "WNEM",
+      "WNEP",
+      "WNKY",
+      "WOAI",
+      "WOAY-TV",
+      "Wokingham.Today",
+      "WOKQ",
+      "WOKV",
+      "WOODTV.com",
+      "Wooster Daily Record",
+      "Worcester Telegram",
+      "world.infonasional.com",
+      "WorldAtlas",
+      "WOWK 13 News",
+      "WOWT",
+      "WPBF",
+      "WPBN",
+      "WPDE",
+      "WPEC",
+      "WPG Talk Radio 95.5 FM",
+      "WPLG Local 10",
+      "WPLN News",
+      "WPR",
+      "WPRI.com",
+      "WPSD Local 6",
+      "WPTA | 21Alive | Fort Wayne, IN",
+      "WPTV",
+      "WPTZ",
+      "WPXI",
+      "WQAD",
+      "WRAL",
+      "WRDW",
+      "WREG.com",
+      "Wrexham and Flintshire News, Sport, Events | The Leader",
+      "WRIC ABC 8News",
+      "WRTV",
+      "WRUL-FM",
+      "WSAW",
+      "WSAZ",
+      "WSB-TV",
+      "WSBT",
+      "WSET",
+      "WSFA",
+      "WSIL-TV",
+      "WSLS",
+      "WSMV",
+      "WSOC TV",
+      "WSON AM & FM",
+      "WSPA 7NEWS",
+      "WSVN",
+      "WSYX",
+      "WTAE",
+      "WTHI-TV",
+      "WTHR",
+      "WTKR",
+      "WTMJ",
+      "WTNH.com",
+      "WTOC",
+      "WTOL",
+      "wtol.com",
+      "WTOP",
+      "wtsp.com",
+      "WTTW",
+      "WTVA",
+      "WTVC",
+      "WTVG",
+      "WTVM.com",
+      "WTVQ",
+      "WTVR.com",
+      "WTVY",
+      "WTXL ABC 27 Tallahassee News",
+      "WUFT",
+      "WUSA9",
+      "WV Department of Transportation (.gov)",
+      "WV MetroNews",
+      "WVIR",
+      "WVLT",
+      "WVNS",
+      "WVTM",
+      "WVUA 23",
+      "WVVA",
+      "WWAYTV3",
+      "WWBT",
+      "WWLTV.com",
+      "WWMT",
+      "wwmtarc",
+      "WWNO",
+      "WWNY",
+      "WXII",
+      "WXLV",
+      "WXYZ Channel 7",
+      "WYFF",
+      "Wyndham TV",
+      "WyomingNews.com",
+      "WZTV",
+      "WZZM13.com",
+      "xtown.la",
+      "Y105FM",
+      "Yahoo",
+      "Yahoo Creators",
+      "Yahoo Lifestyle Singapore",
+      "Yahoo News Canada",
+      "Yahoo News Singapore",
+      "Yahoo News UK",
+      "Yakima Herald-Republic",
+      "Yelp",
+      "Yeni Safak English",
+      "York Daily Record",
+      "YorkRegion.com",
+      "Yorkshire Evening Post",
+      "Yorkshire Post",
+      "Your Observer",
+      "Your Oregon News",
+      "yourcentralvalley.com",
+      "Zag Daily",
+      "Zanesville Times Recorder",
+      "朝日新聞",
+      "毎日新聞"
+    ],
+    "dateStart": "2014-01-01",
+    "dateEnd": "2026-05-15"
+  },
+  "platformMix": [
+    {
+      "name": "news",
+      "count": 9312,
+      "percentage": 0.6189020337631264
+    },
+    {
+      "name": "reddit",
+      "count": 2772,
+      "percentage": 0.18423501262794098
+    },
+    {
+      "name": "bluesky",
+      "count": 2126,
+      "percentage": 0.14130001329256944
+    },
+    {
+      "name": "mastodon",
+      "count": 836,
+      "percentage": 0.055562940316363156
+    }
+  ],
+  "collectorMix": [
+    {
+      "name": "google_news_rss",
+      "count": 9311,
+      "percentage": 0.6188355709158581
+    },
+    {
+      "name": "reddit_exhaustive",
+      "count": 2734,
+      "percentage": 0.18170942443174265
+    },
+    {
+      "name": "bluesky",
+      "count": 2126,
+      "percentage": 0.14130001329256944
+    },
+    {
+      "name": "mastodon_exhaustive",
+      "count": 830,
+      "percentage": 0.05516416323275289
+    },
+    {
+      "name": "reddit",
+      "count": 38,
+      "percentage": 0.002525588196198325
+    },
+    {
+      "name": "mastodon",
+      "count": 6,
+      "percentage": 0.00039877708361026184
+    },
+    {
+      "name": "rss",
+      "count": 1,
+      "percentage": 0.00006646284726837697
+    }
+  ],
+  "keywordCounts": [
+    {
+      "name": "pedestrian killed",
+      "count": 4091,
+      "percentage": 0.2718995081749302
+    },
+    {
+      "name": "bicyclist killed",
+      "count": 2062,
+      "percentage": 0.13704639106739333
+    },
+    {
+      "name": "pedestrian fatality",
+      "count": 1615,
+      "percentage": 0.10733749833842882
+    },
+    {
+      "name": "pedestrian fatalities",
+      "count": 1224,
+      "percentage": 0.08135052505649341
+    },
+    {
+      "name": "pedestrian died",
+      "count": 1180,
+      "percentage": 0.07842615977668484
+    },
+    {
+      "name": "cyclist killed",
+      "count": 754,
+      "percentage": 0.05011298684035624
+    },
+    {
+      "name": "bicyclist died",
+      "count": 640,
+      "percentage": 0.04253622225176126
+    },
+    {
+      "name": "cyclist died",
+      "count": 372,
+      "percentage": 0.024724179183836237
+    },
+    {
+      "name": "bicycle killed",
+      "count": 347,
+      "percentage": 0.02306260800212681
+    },
+    {
+      "name": "bicyclist fatality",
+      "count": 215,
+      "percentage": 0.01428951216270105
+    },
+    {
+      "name": "cycle died",
+      "count": 214,
+      "percentage": 0.014223049315432673
+    },
+    {
+      "name": "cyclist fatality",
+      "count": 211,
+      "percentage": 0.014023660773627543
+    },
+    {
+      "name": "bicycle fatalities",
+      "count": 203,
+      "percentage": 0.013491957995480527
+    },
+    {
+      "name": "cycle killed",
+      "count": 191,
+      "percentage": 0.012694403828260002
+    },
+    {
+      "name": "pedestrian",
+      "count": 171,
+      "percentage": 0.011365146882892464
+    },
+    {
+      "name": "bicyclist fatalities",
+      "count": 167,
+      "percentage": 0.011099295493818955
+    },
+    {
+      "name": "bicycle died",
+      "count": 133,
+      "percentage": 0.008839558686694138
+    },
+    {
+      "name": "cyclist fatalities",
+      "count": 133,
+      "percentage": 0.008839558686694138
+    },
+    {
+      "name": "bicycle fatality",
+      "count": 132,
+      "percentage": 0.008773095839425761
+    },
+    {
+      "name": "pedestrians",
+      "count": 91,
+      "percentage": 0.006048119101422305
+    },
+    {
+      "name": "pedestrian fatal crash",
+      "count": 69,
+      "percentage": 0.004585936461518012
+    },
+    {
+      "name": "cycle fatality",
+      "count": 58,
+      "percentage": 0.0038548451415658645
+    },
+    {
+      "name": "hitandrun",
+      "count": 52,
+      "percentage": 0.0034560680579556026
+    },
+    {
+      "name": "roadsafety",
+      "count": 49,
+      "percentage": 0.003256679516150472
+    },
+    {
+      "name": "trafficviolence",
+      "count": 48,
+      "percentage": 0.0031902166688820947
+    },
+    {
+      "name": "cyclist",
+      "count": 46,
+      "percentage": 0.003057290974345341
+    },
+    {
+      "name": "fatalcrash",
+      "count": 46,
+      "percentage": 0.003057290974345341
+    },
+    {
+      "name": "visionzero",
+      "count": 44,
+      "percentage": 0.002924365279808587
+    },
+    {
+      "name": "crashnotaccident",
+      "count": 42,
+      "percentage": 0.002791439585271833
+    },
+    {
+      "name": "crash",
+      "count": 39,
+      "percentage": 0.002592051043466702
+    }
+  ],
+  "keywordFamilyCounts": [
+    {
+      "name": "pedestrian",
+      "count": 8556,
+      "percentage": 0.5686561212282334
+    },
+    {
+      "name": "bicyclist",
+      "count": 3121,
+      "percentage": 0.20743054632460456
+    },
+    {
+      "name": "cyclist",
+      "count": 1590,
+      "percentage": 0.10567592715671939
+    },
+    {
+      "name": "bicycle",
+      "count": 1319,
+      "percentage": 0.08766449554698923
+    },
+    {
+      "name": "other",
+      "count": 409,
+      "percentage": 0.027183304532766184
+    },
+    {
+      "name": "noise",
+      "count": 32,
+      "percentage": 0.002126811112588063
+    },
+    {
+      "name": "aggregate",
+      "count": 19,
+      "percentage": 0.0012627940980991625
+    }
+  ],
+  "keywordFamilyByYear": [
+    {
+      "year": 2014,
+      "pedestrian": 80,
+      "bicyclist": 38,
+      "cyclist": 41,
+      "bicycle": 29,
+      "aggregate": 0,
+      "noise": 0,
+      "other": 0,
+      "total": 188
+    },
+    {
+      "year": 2015,
+      "pedestrian": 101,
+      "bicyclist": 67,
+      "cyclist": 48,
+      "bicycle": 15,
+      "aggregate": 0,
+      "noise": 0,
+      "other": 0,
+      "total": 231
+    },
+    {
+      "year": 2016,
+      "pedestrian": 120,
+      "bicyclist": 84,
+      "cyclist": 59,
+      "bicycle": 25,
+      "aggregate": 1,
+      "noise": 0,
+      "other": 0,
+      "total": 289
+    },
+    {
+      "year": 2017,
+      "pedestrian": 137,
+      "bicyclist": 90,
+      "cyclist": 47,
+      "bicycle": 26,
+      "aggregate": 0,
+      "noise": 0,
+      "other": 0,
+      "total": 300
+    },
+    {
+      "year": 2018,
+      "pedestrian": 171,
+      "bicyclist": 130,
+      "cyclist": 62,
+      "bicycle": 57,
+      "aggregate": 0,
+      "noise": 0,
+      "other": 0,
+      "total": 420
+    },
+    {
+      "year": 2019,
+      "pedestrian": 192,
+      "bicyclist": 163,
+      "cyclist": 88,
+      "bicycle": 57,
+      "aggregate": 0,
+      "noise": 0,
+      "other": 0,
+      "total": 500
+    },
+    {
+      "year": 2020,
+      "pedestrian": 183,
+      "bicyclist": 116,
+      "cyclist": 57,
+      "bicycle": 46,
+      "aggregate": 0,
+      "noise": 0,
+      "other": 0,
+      "total": 402
+    },
+    {
+      "year": 2021,
+      "pedestrian": 245,
+      "bicyclist": 121,
+      "cyclist": 83,
+      "bicycle": 53,
+      "aggregate": 2,
+      "noise": 0,
+      "other": 0,
+      "total": 504
+    },
+    {
+      "year": 2022,
+      "pedestrian": 415,
+      "bicyclist": 198,
+      "cyclist": 96,
+      "bicycle": 82,
+      "aggregate": 3,
+      "noise": 0,
+      "other": 21,
+      "total": 815
+    },
+    {
+      "year": 2023,
+      "pedestrian": 679,
+      "bicyclist": 291,
+      "cyclist": 133,
+      "bicycle": 144,
+      "aggregate": 1,
+      "noise": 0,
+      "other": 81,
+      "total": 1329
+    },
+    {
+      "year": 2024,
+      "pedestrian": 985,
+      "bicyclist": 374,
+      "cyclist": 214,
+      "bicycle": 186,
+      "aggregate": 3,
+      "noise": 0,
+      "other": 97,
+      "total": 1859
+    },
+    {
+      "year": 2025,
+      "pedestrian": 3014,
+      "bicyclist": 874,
+      "cyclist": 433,
+      "bicycle": 365,
+      "aggregate": 3,
+      "noise": 0,
+      "other": 66,
+      "total": 4755
+    },
+    {
+      "year": 2026,
+      "pedestrian": 2234,
+      "bicyclist": 575,
+      "cyclist": 229,
+      "bicycle": 234,
+      "aggregate": 6,
+      "noise": 32,
+      "other": 144,
+      "total": 3454
+    }
+  ],
+  "volumeByMonth": [
+    {
+      "month": "2014-01",
+      "news": 8,
+      "reddit": 10,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 18
+    },
+    {
+      "month": "2014-02",
+      "news": 9,
+      "reddit": 5,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 14
+    },
+    {
+      "month": "2014-03",
+      "news": 10,
+      "reddit": 3,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 13
+    },
+    {
+      "month": "2014-04",
+      "news": 9,
+      "reddit": 5,
+      "bluesky": 1,
+      "mastodon": 0,
+      "total": 15
+    },
+    {
+      "month": "2014-05",
+      "news": 9,
+      "reddit": 6,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 15
+    },
+    {
+      "month": "2014-06",
+      "news": 11,
+      "reddit": 5,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 16
+    },
+    {
+      "month": "2014-07",
+      "news": 10,
+      "reddit": 4,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 14
+    },
+    {
+      "month": "2014-08",
+      "news": 10,
+      "reddit": 5,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 15
+    },
+    {
+      "month": "2014-09",
+      "news": 15,
+      "reddit": 3,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 18
+    },
+    {
+      "month": "2014-10",
+      "news": 14,
+      "reddit": 5,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 19
+    },
+    {
+      "month": "2014-11",
+      "news": 12,
+      "reddit": 2,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 14
+    },
+    {
+      "month": "2014-12",
+      "news": 16,
+      "reddit": 0,
+      "bluesky": 1,
+      "mastodon": 0,
+      "total": 17
+    },
+    {
+      "month": "2015-01",
+      "news": 8,
+      "reddit": 3,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 11
+    },
+    {
+      "month": "2015-02",
+      "news": 11,
+      "reddit": 4,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 15
+    },
+    {
+      "month": "2015-03",
+      "news": 12,
+      "reddit": 5,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 17
+    },
+    {
+      "month": "2015-04",
+      "news": 14,
+      "reddit": 5,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 19
+    },
+    {
+      "month": "2015-05",
+      "news": 16,
+      "reddit": 4,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 20
+    },
+    {
+      "month": "2015-06",
+      "news": 12,
+      "reddit": 9,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 21
+    },
+    {
+      "month": "2015-07",
+      "news": 15,
+      "reddit": 7,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 22
+    },
+    {
+      "month": "2015-08",
+      "news": 15,
+      "reddit": 7,
+      "bluesky": 1,
+      "mastodon": 0,
+      "total": 23
+    },
+    {
+      "month": "2015-09",
+      "news": 14,
+      "reddit": 8,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 22
+    },
+    {
+      "month": "2015-10",
+      "news": 20,
+      "reddit": 8,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 28
+    },
+    {
+      "month": "2015-11",
+      "news": 10,
+      "reddit": 0,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 10
+    },
+    {
+      "month": "2015-12",
+      "news": 17,
+      "reddit": 6,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 23
+    },
+    {
+      "month": "2016-01",
+      "news": 14,
+      "reddit": 4,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 18
+    },
+    {
+      "month": "2016-02",
+      "news": 6,
+      "reddit": 1,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 7
+    },
+    {
+      "month": "2016-03",
+      "news": 10,
+      "reddit": 6,
+      "bluesky": 1,
+      "mastodon": 0,
+      "total": 17
+    },
+    {
+      "month": "2016-04",
+      "news": 14,
+      "reddit": 7,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 21
+    },
+    {
+      "month": "2016-05",
+      "news": 12,
+      "reddit": 2,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 14
+    },
+    {
+      "month": "2016-06",
+      "news": 26,
+      "reddit": 16,
+      "bluesky": 1,
+      "mastodon": 0,
+      "total": 43
+    },
+    {
+      "month": "2016-07",
+      "news": 29,
+      "reddit": 8,
+      "bluesky": 1,
+      "mastodon": 0,
+      "total": 38
+    },
+    {
+      "month": "2016-08",
+      "news": 15,
+      "reddit": 8,
+      "bluesky": 1,
+      "mastodon": 0,
+      "total": 24
+    },
+    {
+      "month": "2016-09",
+      "news": 19,
+      "reddit": 7,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 26
+    },
+    {
+      "month": "2016-10",
+      "news": 23,
+      "reddit": 7,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 30
+    },
+    {
+      "month": "2016-11",
+      "news": 16,
+      "reddit": 12,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 28
+    },
+    {
+      "month": "2016-12",
+      "news": 13,
+      "reddit": 9,
+      "bluesky": 1,
+      "mastodon": 0,
+      "total": 23
+    },
+    {
+      "month": "2017-01",
+      "news": 25,
+      "reddit": 7,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 32
+    },
+    {
+      "month": "2017-02",
+      "news": 13,
+      "reddit": 2,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 15
+    },
+    {
+      "month": "2017-03",
+      "news": 23,
+      "reddit": 8,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 31
+    },
+    {
+      "month": "2017-04",
+      "news": 8,
+      "reddit": 5,
+      "bluesky": 1,
+      "mastodon": 0,
+      "total": 14
+    },
+    {
+      "month": "2017-05",
+      "news": 22,
+      "reddit": 6,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 28
+    },
+    {
+      "month": "2017-06",
+      "news": 13,
+      "reddit": 8,
+      "bluesky": 1,
+      "mastodon": 0,
+      "total": 22
+    },
+    {
+      "month": "2017-07",
+      "news": 18,
+      "reddit": 6,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 24
+    },
+    {
+      "month": "2017-08",
+      "news": 18,
+      "reddit": 8,
+      "bluesky": 1,
+      "mastodon": 0,
+      "total": 27
+    },
+    {
+      "month": "2017-09",
+      "news": 12,
+      "reddit": 6,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 18
+    },
+    {
+      "month": "2017-10",
+      "news": 23,
+      "reddit": 4,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 27
+    },
+    {
+      "month": "2017-11",
+      "news": 25,
+      "reddit": 7,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 32
+    },
+    {
+      "month": "2017-12",
+      "news": 20,
+      "reddit": 9,
+      "bluesky": 1,
+      "mastodon": 0,
+      "total": 30
+    },
+    {
+      "month": "2018-01",
+      "news": 10,
+      "reddit": 5,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 15
+    },
+    {
+      "month": "2018-02",
+      "news": 18,
+      "reddit": 5,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 23
+    },
+    {
+      "month": "2018-03",
+      "news": 31,
+      "reddit": 11,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 42
+    },
+    {
+      "month": "2018-04",
+      "news": 21,
+      "reddit": 11,
+      "bluesky": 1,
+      "mastodon": 0,
+      "total": 33
+    },
+    {
+      "month": "2018-05",
+      "news": 28,
+      "reddit": 12,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 40
+    },
+    {
+      "month": "2018-06",
+      "news": 30,
+      "reddit": 6,
+      "bluesky": 1,
+      "mastodon": 0,
+      "total": 37
+    },
+    {
+      "month": "2018-07",
+      "news": 34,
+      "reddit": 13,
+      "bluesky": 1,
+      "mastodon": 0,
+      "total": 48
+    },
+    {
+      "month": "2018-08",
+      "news": 26,
+      "reddit": 11,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 37
+    },
+    {
+      "month": "2018-09",
+      "news": 26,
+      "reddit": 15,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 41
+    },
+    {
+      "month": "2018-10",
+      "news": 38,
+      "reddit": 6,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 44
+    },
+    {
+      "month": "2018-11",
+      "news": 26,
+      "reddit": 5,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 31
+    },
+    {
+      "month": "2018-12",
+      "news": 22,
+      "reddit": 7,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 29
+    },
+    {
+      "month": "2019-01",
+      "news": 34,
+      "reddit": 14,
+      "bluesky": 1,
+      "mastodon": 0,
+      "total": 49
+    },
+    {
+      "month": "2019-02",
+      "news": 26,
+      "reddit": 11,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 37
+    },
+    {
+      "month": "2019-03",
+      "news": 35,
+      "reddit": 16,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 51
+    },
+    {
+      "month": "2019-04",
+      "news": 20,
+      "reddit": 6,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 26
+    },
+    {
+      "month": "2019-05",
+      "news": 21,
+      "reddit": 17,
+      "bluesky": 1,
+      "mastodon": 0,
+      "total": 39
+    },
+    {
+      "month": "2019-06",
+      "news": 21,
+      "reddit": 7,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 28
+    },
+    {
+      "month": "2019-07",
+      "news": 44,
+      "reddit": 26,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 70
+    },
+    {
+      "month": "2019-08",
+      "news": 17,
+      "reddit": 18,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 35
+    },
+    {
+      "month": "2019-09",
+      "news": 20,
+      "reddit": 24,
+      "bluesky": 1,
+      "mastodon": 0,
+      "total": 45
+    },
+    {
+      "month": "2019-10",
+      "news": 36,
+      "reddit": 19,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 55
+    },
+    {
+      "month": "2019-11",
+      "news": 33,
+      "reddit": 17,
+      "bluesky": 1,
+      "mastodon": 0,
+      "total": 51
+    },
+    {
+      "month": "2019-12",
+      "news": 13,
+      "reddit": 1,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 14
+    },
+    {
+      "month": "2020-01",
+      "news": 28,
+      "reddit": 13,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 41
+    },
+    {
+      "month": "2020-02",
+      "news": 29,
+      "reddit": 12,
+      "bluesky": 2,
+      "mastodon": 0,
+      "total": 43
+    },
+    {
+      "month": "2020-03",
+      "news": 24,
+      "reddit": 5,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 29
+    },
+    {
+      "month": "2020-04",
+      "news": 9,
+      "reddit": 2,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 11
+    },
+    {
+      "month": "2020-05",
+      "news": 20,
+      "reddit": 7,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 27
+    },
+    {
+      "month": "2020-06",
+      "news": 16,
+      "reddit": 11,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 27
+    },
+    {
+      "month": "2020-07",
+      "news": 28,
+      "reddit": 8,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 36
+    },
+    {
+      "month": "2020-08",
+      "news": 32,
+      "reddit": 6,
+      "bluesky": 1,
+      "mastodon": 0,
+      "total": 39
+    },
+    {
+      "month": "2020-09",
+      "news": 24,
+      "reddit": 12,
+      "bluesky": 1,
+      "mastodon": 0,
+      "total": 37
+    },
+    {
+      "month": "2020-10",
+      "news": 26,
+      "reddit": 16,
+      "bluesky": 1,
+      "mastodon": 0,
+      "total": 43
+    },
+    {
+      "month": "2020-11",
+      "news": 24,
+      "reddit": 11,
+      "bluesky": 1,
+      "mastodon": 0,
+      "total": 36
+    },
+    {
+      "month": "2020-12",
+      "news": 21,
+      "reddit": 12,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 33
+    },
+    {
+      "month": "2021-01",
+      "news": 33,
+      "reddit": 7,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 40
+    },
+    {
+      "month": "2021-02",
+      "news": 21,
+      "reddit": 3,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 24
+    },
+    {
+      "month": "2021-03",
+      "news": 39,
+      "reddit": 8,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 47
+    },
+    {
+      "month": "2021-04",
+      "news": 18,
+      "reddit": 7,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 25
+    },
+    {
+      "month": "2021-05",
+      "news": 41,
+      "reddit": 14,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 55
+    },
+    {
+      "month": "2021-06",
+      "news": 24,
+      "reddit": 7,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 31
+    },
+    {
+      "month": "2021-07",
+      "news": 41,
+      "reddit": 7,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 48
+    },
+    {
+      "month": "2021-08",
+      "news": 19,
+      "reddit": 12,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 31
+    },
+    {
+      "month": "2021-09",
+      "news": 36,
+      "reddit": 10,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 46
+    },
+    {
+      "month": "2021-10",
+      "news": 35,
+      "reddit": 14,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 49
+    },
+    {
+      "month": "2021-11",
+      "news": 49,
+      "reddit": 16,
+      "bluesky": 1,
+      "mastodon": 0,
+      "total": 66
+    },
+    {
+      "month": "2021-12",
+      "news": 37,
+      "reddit": 5,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 42
+    },
+    {
+      "month": "2022-01",
+      "news": 42,
+      "reddit": 7,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 49
+    },
+    {
+      "month": "2022-02",
+      "news": 37,
+      "reddit": 13,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 50
+    },
+    {
+      "month": "2022-03",
+      "news": 40,
+      "reddit": 10,
+      "bluesky": 1,
+      "mastodon": 0,
+      "total": 51
+    },
+    {
+      "month": "2022-04",
+      "news": 40,
+      "reddit": 17,
+      "bluesky": 0,
+      "mastodon": 5,
+      "total": 62
+    },
+    {
+      "month": "2022-05",
+      "news": 44,
+      "reddit": 16,
+      "bluesky": 1,
+      "mastodon": 0,
+      "total": 61
+    },
+    {
+      "month": "2022-06",
+      "news": 44,
+      "reddit": 16,
+      "bluesky": 1,
+      "mastodon": 1,
+      "total": 62
+    },
+    {
+      "month": "2022-07",
+      "news": 69,
+      "reddit": 22,
+      "bluesky": 0,
+      "mastodon": 1,
+      "total": 92
+    },
+    {
+      "month": "2022-08",
+      "news": 58,
+      "reddit": 31,
+      "bluesky": 2,
+      "mastodon": 0,
+      "total": 91
+    },
+    {
+      "month": "2022-09",
+      "news": 54,
+      "reddit": 30,
+      "bluesky": 2,
+      "mastodon": 0,
+      "total": 86
+    },
+    {
+      "month": "2022-10",
+      "news": 52,
+      "reddit": 21,
+      "bluesky": 0,
+      "mastodon": 0,
+      "total": 73
+    },
+    {
+      "month": "2022-11",
+      "news": 41,
+      "reddit": 15,
+      "bluesky": 0,
+      "mastodon": 13,
+      "total": 69
+    },
+    {
+      "month": "2022-12",
+      "news": 49,
+      "reddit": 11,
+      "bluesky": 0,
+      "mastodon": 9,
+      "total": 69
+    },
+    {
+      "month": "2023-01",
+      "news": 72,
+      "reddit": 23,
+      "bluesky": 1,
+      "mastodon": 11,
+      "total": 107
+    },
+    {
+      "month": "2023-02",
+      "news": 82,
+      "reddit": 35,
+      "bluesky": 0,
+      "mastodon": 4,
+      "total": 121
+    },
+    {
+      "month": "2023-03",
+      "news": 38,
+      "reddit": 25,
+      "bluesky": 0,
+      "mastodon": 7,
+      "total": 70
+    },
+    {
+      "month": "2023-04",
+      "news": 59,
+      "reddit": 17,
+      "bluesky": 1,
+      "mastodon": 14,
+      "total": 91
+    },
+    {
+      "month": "2023-05",
+      "news": 62,
+      "reddit": 26,
+      "bluesky": 2,
+      "mastodon": 6,
+      "total": 96
+    },
+    {
+      "month": "2023-06",
+      "news": 72,
+      "reddit": 18,
+      "bluesky": 2,
+      "mastodon": 10,
+      "total": 102
+    },
+    {
+      "month": "2023-07",
+      "news": 68,
+      "reddit": 24,
+      "bluesky": 5,
+      "mastodon": 19,
+      "total": 116
+    },
+    {
+      "month": "2023-08",
+      "news": 80,
+      "reddit": 19,
+      "bluesky": 0,
+      "mastodon": 17,
+      "total": 116
+    },
+    {
+      "month": "2023-09",
+      "news": 84,
+      "reddit": 28,
+      "bluesky": 5,
+      "mastodon": 18,
+      "total": 135
+    },
+    {
+      "month": "2023-10",
+      "news": 79,
+      "reddit": 24,
+      "bluesky": 17,
+      "mastodon": 24,
+      "total": 144
+    },
+    {
+      "month": "2023-11",
+      "news": 74,
+      "reddit": 19,
+      "bluesky": 5,
+      "mastodon": 19,
+      "total": 117
+    },
+    {
+      "month": "2023-12",
+      "news": 79,
+      "reddit": 10,
+      "bluesky": 5,
+      "mastodon": 20,
+      "total": 114
+    },
+    {
+      "month": "2024-01",
+      "news": 92,
+      "reddit": 19,
+      "bluesky": 15,
+      "mastodon": 27,
+      "total": 153
+    },
+    {
+      "month": "2024-02",
+      "news": 86,
+      "reddit": 25,
+      "bluesky": 6,
+      "mastodon": 21,
+      "total": 138
+    },
+    {
+      "month": "2024-03",
+      "news": 76,
+      "reddit": 34,
+      "bluesky": 5,
+      "mastodon": 11,
+      "total": 126
+    },
+    {
+      "month": "2024-04",
+      "news": 80,
+      "reddit": 29,
+      "bluesky": 5,
+      "mastodon": 17,
+      "total": 131
+    },
+    {
+      "month": "2024-05",
+      "news": 100,
+      "reddit": 34,
+      "bluesky": 11,
+      "mastodon": 14,
+      "total": 159
+    },
+    {
+      "month": "2024-06",
+      "news": 84,
+      "reddit": 35,
+      "bluesky": 9,
+      "mastodon": 17,
+      "total": 145
+    },
+    {
+      "month": "2024-07",
+      "news": 78,
+      "reddit": 20,
+      "bluesky": 12,
+      "mastodon": 12,
+      "total": 122
+    },
+    {
+      "month": "2024-08",
+      "news": 98,
+      "reddit": 32,
+      "bluesky": 14,
+      "mastodon": 13,
+      "total": 157
+    },
+    {
+      "month": "2024-09",
+      "news": 95,
+      "reddit": 27,
+      "bluesky": 12,
+      "mastodon": 19,
+      "total": 153
+    },
+    {
+      "month": "2024-10",
+      "news": 145,
+      "reddit": 32,
+      "bluesky": 10,
+      "mastodon": 14,
+      "total": 201
+    },
+    {
+      "month": "2024-11",
+      "news": 99,
+      "reddit": 42,
+      "bluesky": 21,
+      "mastodon": 10,
+      "total": 172
+    },
+    {
+      "month": "2024-12",
+      "news": 107,
+      "reddit": 46,
+      "bluesky": 33,
+      "mastodon": 16,
+      "total": 202
+    },
+    {
+      "month": "2025-01",
+      "news": 96,
+      "reddit": 48,
+      "bluesky": 42,
+      "mastodon": 19,
+      "total": 205
+    },
+    {
+      "month": "2025-02",
+      "news": 99,
+      "reddit": 31,
+      "bluesky": 29,
+      "mastodon": 8,
+      "total": 167
+    },
+    {
+      "month": "2025-03",
+      "news": 131,
+      "reddit": 23,
+      "bluesky": 35,
+      "mastodon": 16,
+      "total": 205
+    },
+    {
+      "month": "2025-04",
+      "news": 144,
+      "reddit": 45,
+      "bluesky": 69,
+      "mastodon": 9,
+      "total": 267
+    },
+    {
+      "month": "2025-05",
+      "news": 187,
+      "reddit": 77,
+      "bluesky": 72,
+      "mastodon": 19,
+      "total": 355
+    },
+    {
+      "month": "2025-06",
+      "news": 204,
+      "reddit": 64,
+      "bluesky": 72,
+      "mastodon": 7,
+      "total": 347
+    },
+    {
+      "month": "2025-07",
+      "news": 248,
+      "reddit": 94,
+      "bluesky": 113,
+      "mastodon": 10,
+      "total": 465
+    },
+    {
+      "month": "2025-08",
+      "news": 238,
+      "reddit": 55,
+      "bluesky": 111,
+      "mastodon": 15,
+      "total": 419
+    },
+    {
+      "month": "2025-09",
+      "news": 256,
+      "reddit": 44,
+      "bluesky": 87,
+      "mastodon": 19,
+      "total": 406
+    },
+    {
+      "month": "2025-10",
+      "news": 370,
+      "reddit": 102,
+      "bluesky": 145,
+      "mastodon": 12,
+      "total": 629
+    },
+    {
+      "month": "2025-11",
+      "news": 351,
+      "reddit": 89,
+      "bluesky": 108,
+      "mastodon": 18,
+      "total": 566
+    },
+    {
+      "month": "2025-12",
+      "news": 416,
+      "reddit": 108,
+      "bluesky": 174,
+      "mastodon": 26,
+      "total": 724
+    },
+    {
+      "month": "2026-01",
+      "news": 411,
+      "reddit": 77,
+      "bluesky": 128,
+      "mastodon": 21,
+      "total": 637
+    },
+    {
+      "month": "2026-02",
+      "news": 400,
+      "reddit": 69,
+      "bluesky": 147,
+      "mastodon": 25,
+      "total": 641
+    },
+    {
+      "month": "2026-03",
+      "news": 455,
+      "reddit": 76,
+      "bluesky": 236,
+      "mastodon": 49,
+      "total": 816
+    },
+    {
+      "month": "2026-04",
+      "news": 462,
+      "reddit": 79,
+      "bluesky": 244,
+      "mastodon": 91,
+      "total": 876
+    },
+    {
+      "month": "2026-05",
+      "news": 267,
+      "reddit": 49,
+      "bluesky": 85,
+      "mastodon": 83,
+      "total": 484
+    }
+  ],
+  "topLocations": [
+    {
+      "name": "California",
+      "count": 209,
+      "percentage": 0.013890735079090789
+    },
+    {
+      "name": "Florida",
+      "count": 203,
+      "percentage": 0.013491957995480527
+    },
+    {
+      "name": "North Carolina",
+      "count": 165,
+      "percentage": 0.010966369799282201
+    },
+    {
+      "name": "New Jersey",
+      "count": 163,
+      "percentage": 0.010833444104745448
+    },
+    {
+      "name": "Los Angeles",
+      "count": 159,
+      "percentage": 0.010567592715671939
+    },
+    {
+      "name": "South Carolina",
+      "count": 137,
+      "percentage": 0.009105410075767645
+    },
+    {
+      "name": "Washington",
+      "count": 132,
+      "percentage": 0.008773095839425761
+    },
+    {
+      "name": "Colorado",
+      "count": 131,
+      "percentage": 0.008706632992157385
+    },
+    {
+      "name": "Michigan",
+      "count": 123,
+      "percentage": 0.008174930214010369
+    },
+    {
+      "name": "New York",
+      "count": 123,
+      "percentage": 0.008174930214010369
+    },
+    {
+      "name": "Illinois",
+      "count": 120,
+      "percentage": 0.007975541672205237
+    },
+    {
+      "name": "San Francisco",
+      "count": 114,
+      "percentage": 0.007576764588594975
+    },
+    {
+      "name": "Texas",
+      "count": 114,
+      "percentage": 0.007576764588594975
+    },
+    {
+      "name": "Louisiana",
+      "count": 112,
+      "percentage": 0.007443838894058221
+    },
+    {
+      "name": "San Diego",
+      "count": 109,
+      "percentage": 0.007244450352253091
+    },
+    {
+      "name": "Indiana",
+      "count": 108,
+      "percentage": 0.007177987504984713
+    },
+    {
+      "name": "Virginia",
+      "count": 107,
+      "percentage": 0.007111524657716336
+    },
+    {
+      "name": "Arizona",
+      "count": 105,
+      "percentage": 0.006978598963179583
+    },
+    {
+      "name": "Alabama",
+      "count": 101,
+      "percentage": 0.006712747574106075
+    },
+    {
+      "name": "Georgia",
+      "count": 100,
+      "percentage": 0.006646284726837697
+    },
+    {
+      "name": "Houston",
+      "count": 98,
+      "percentage": 0.006513359032300944
+    },
+    {
+      "name": "Kentucky",
+      "count": 94,
+      "percentage": 0.006247507643227436
+    },
+    {
+      "name": "Chicago",
+      "count": 93,
+      "percentage": 0.006181044795959059
+    },
+    {
+      "name": "Minnesota",
+      "count": 93,
+      "percentage": 0.006181044795959059
+    },
+    {
+      "name": "San Jose",
+      "count": 92,
+      "percentage": 0.006114581948690682
+    }
+  ],
+  "topSources": {
+    "news": [
+      {
+        "name": "CBS News",
+        "count": 355,
+        "percentage": 0.03812285223367698
+      },
+      {
+        "name": "ABC7 Chicago",
+        "count": 183,
+        "percentage": 0.019652061855670103
+      },
+      {
+        "name": "Patch",
+        "count": 152,
+        "percentage": 0.01632302405498282
+      },
+      {
+        "name": "6abc Philadelphia",
+        "count": 97,
+        "percentage": 0.010416666666666666
+      },
+      {
+        "name": "KOLD",
+        "count": 97,
+        "percentage": 0.010416666666666666
+      },
+      {
+        "name": "ABC7 New York",
+        "count": 92,
+        "percentage": 0.009879725085910653
+      },
+      {
+        "name": "ABC13 Houston",
+        "count": 90,
+        "percentage": 0.009664948453608248
+      },
+      {
+        "name": "ABC7 Los Angeles",
+        "count": 74,
+        "percentage": 0.007946735395189003
+      },
+      {
+        "name": "BikinginLA",
+        "count": 65,
+        "percentage": 0.006980240549828179
+      },
+      {
+        "name": "facebook.com",
+        "count": 64,
+        "percentage": 0.006872852233676976
+      },
+      {
+        "name": "ABC7 San Francisco",
+        "count": 62,
+        "percentage": 0.00665807560137457
+      },
+      {
+        "name": "WTHR",
+        "count": 60,
+        "percentage": 0.006443298969072165
+      },
+      {
+        "name": "Streetsblog Chicago",
+        "count": 55,
+        "percentage": 0.005906357388316151
+      },
+      {
+        "name": "AOL.com",
+        "count": 48,
+        "percentage": 0.005154639175257732
+      },
+      {
+        "name": "The New York Times",
+        "count": 48,
+        "percentage": 0.005154639175257732
+      },
+      {
+        "name": "Denver7",
+        "count": 45,
+        "percentage": 0.004832474226804124
+      },
+      {
+        "name": "San Francisco Chronicle",
+        "count": 42,
+        "percentage": 0.004510309278350515
+      },
+      {
+        "name": "ABC30 Fresno",
+        "count": 39,
+        "percentage": 0.004188144329896907
+      },
+      {
+        "name": "KCRA",
+        "count": 39,
+        "percentage": 0.004188144329896907
+      },
+      {
+        "name": "Yahoo",
+        "count": 38,
+        "percentage": 0.004080756013745705
+      }
+    ],
+    "reddit": [
+      {
+        "name": "all",
+        "count": 1996,
+        "percentage": 0.7200577200577201
+      },
+      {
+        "name": "fuckcars",
+        "count": 166,
+        "percentage": 0.05988455988455989
+      },
+      {
+        "name": "bicycling",
+        "count": 120,
+        "percentage": 0.04329004329004329
+      },
+      {
+        "name": "NYCbike",
+        "count": 61,
+        "percentage": 0.022005772005772004
+      },
+      {
+        "name": "sanfrancisco",
+        "count": 53,
+        "percentage": 0.01911976911976912
+      },
+      {
+        "name": "Portland",
+        "count": 39,
+        "percentage": 0.01406926406926407
+      },
+      {
+        "name": "cycling",
+        "count": 34,
+        "percentage": 0.012265512265512266
+      },
+      {
+        "name": "LosAngeles",
+        "count": 34,
+        "percentage": 0.012265512265512266
+      },
+      {
+        "name": "chicago",
+        "count": 33,
+        "percentage": 0.011904761904761904
+      },
+      {
+        "name": "Denver",
+        "count": 29,
+        "percentage": 0.010461760461760462
+      },
+      {
+        "name": "bikecommuting",
+        "count": 25,
+        "percentage": 0.009018759018759018
+      },
+      {
+        "name": "boston",
+        "count": 23,
+        "percentage": 0.008297258297258298
+      },
+      {
+        "name": "Austin",
+        "count": 22,
+        "percentage": 0.007936507936507936
+      },
+      {
+        "name": "houston",
+        "count": 20,
+        "percentage": 0.007215007215007215
+      },
+      {
+        "name": "urbanplanning",
+        "count": 18,
+        "percentage": 0.006493506493506494
+      },
+      {
+        "name": "micromobilityNYC",
+        "count": 17,
+        "percentage": 0.006132756132756133
+      },
+      {
+        "name": "washingtondc",
+        "count": 16,
+        "percentage": 0.005772005772005772
+      },
+      {
+        "name": "SanJose",
+        "count": 14,
+        "percentage": 0.005050505050505051
+      },
+      {
+        "name": "Seattle",
+        "count": 13,
+        "percentage": 0.00468975468975469
+      },
+      {
+        "name": "philadelphia",
+        "count": 10,
+        "percentage": 0.0036075036075036075
+      }
+    ],
+    "bluesky": [
+      {
+        "name": "bsky.app",
+        "count": 2126,
+        "percentage": 1
+      }
+    ],
+    "mastodon": [
+      {
+        "name": "mastodon.social",
+        "count": 479,
+        "percentage": 0.5729665071770335
+      },
+      {
+        "name": "mstdn.social",
+        "count": 125,
+        "percentage": 0.14952153110047847
+      },
+      {
+        "name": "mas.to",
+        "count": 61,
+        "percentage": 0.0729665071770335
+      },
+      {
+        "name": "sfba.social",
+        "count": 47,
+        "percentage": 0.056220095693779906
+      },
+      {
+        "name": "mastodon.online",
+        "count": 37,
+        "percentage": 0.04425837320574163
+      },
+      {
+        "name": "urbanists.social",
+        "count": 22,
+        "percentage": 0.02631578947368421
+      },
+      {
+        "name": "mastodon.world",
+        "count": 19,
+        "percentage": 0.022727272727272728
+      },
+      {
+        "name": "hachyderm.io",
+        "count": 18,
+        "percentage": 0.0215311004784689
+      },
+      {
+        "name": "newsie.social",
+        "count": 18,
+        "percentage": 0.0215311004784689
+      },
+      {
+        "name": "universeodon.com",
+        "count": 7,
+        "percentage": 0.008373205741626795
+      },
+      {
+        "name": "journa.host",
+        "count": 3,
+        "percentage": 0.0035885167464114833
+      }
+    ]
+  },
+  "engagementHistogram": {
+    "redditScore": [
+      {
+        "name": "≤ 100",
+        "count": 674,
+        "percentage": 0.24314574314574314
+      },
+      {
+        "name": "≤ 500",
+        "count": 634,
+        "percentage": 0.2287157287157287
+      },
+      {
+        "name": "≤ 1",
+        "count": 548,
+        "percentage": 0.1976911976911977
+      },
+      {
+        "name": "≤ 25",
+        "count": 469,
+        "percentage": 0.1691919191919192
+      },
+      {
+        "name": "≤ 5",
+        "count": 229,
+        "percentage": 0.08261183261183261
+      },
+      {
+        "name": "> 500",
+        "count": 202,
+        "percentage": 0.07287157287157287
+      },
+      {
+        "name": "≤ 0",
+        "count": 16,
+        "percentage": 0.005772005772005772
+      }
+    ],
+    "blueskyLikes": [
+      {
+        "name": "≤ 0",
+        "count": 1146,
+        "percentage": 0.5390404515522107
+      },
+      {
+        "name": "≤ 5",
+        "count": 395,
+        "percentage": 0.18579492003762935
+      },
+      {
+        "name": "≤ 1",
+        "count": 280,
+        "percentage": 0.1317027281279398
+      },
+      {
+        "name": "≤ 10",
+        "count": 142,
+        "percentage": 0.06679209783631232
+      },
+      {
+        "name": "≤ 50",
+        "count": 120,
+        "percentage": 0.05644402634054563
+      },
+      {
+        "name": "> 100",
+        "count": 22,
+        "percentage": 0.010348071495766699
+      },
+      {
+        "name": "≤ 100",
+        "count": 21,
+        "percentage": 0.009877704609595485
+      }
+    ]
+  },
+  "redditScatter": [
+    {
+      "record_pk": 4430,
+      "score": 10552,
+      "comments": 325,
+      "source": "all"
+    },
+    {
+      "record_pk": 4731,
+      "score": 9805,
+      "comments": 129,
+      "source": "all"
+    },
+    {
+      "record_pk": 4789,
+      "score": 8274,
+      "comments": 858,
+      "source": "all"
+    },
+    {
+      "record_pk": 3782,
+      "score": 7888,
+      "comments": 654,
+      "source": "all"
+    },
+    {
+      "record_pk": 1176,
+      "score": 6586,
+      "comments": 105,
+      "source": "fuckcars"
+    },
+    {
+      "record_pk": 4146,
+      "score": 4980,
+      "comments": 581,
+      "source": "fuckcars"
+    },
+    {
+      "record_pk": 2466,
+      "score": 3833,
+      "comments": 262,
+      "source": "all"
+    },
+    {
+      "record_pk": 1162,
+      "score": 3557,
+      "comments": 224,
+      "source": "bicycling"
+    },
+    {
+      "record_pk": 3881,
+      "score": 2386,
+      "comments": 178,
+      "source": "all"
+    },
+    {
+      "record_pk": 3920,
+      "score": 2354,
+      "comments": 618,
+      "source": "all"
+    },
+    {
+      "record_pk": 1970,
+      "score": 2238,
+      "comments": 417,
+      "source": "all"
+    },
+    {
+      "record_pk": 3109,
+      "score": 2150,
+      "comments": 76,
+      "source": "fuckcars"
+    },
+    {
+      "record_pk": 4192,
+      "score": 2135,
+      "comments": 92,
+      "source": "fuckcars"
+    },
+    {
+      "record_pk": 3426,
+      "score": 2008,
+      "comments": 178,
+      "source": "all"
+    },
+    {
+      "record_pk": 4479,
+      "score": 1939,
+      "comments": 171,
+      "source": "all"
+    },
+    {
+      "record_pk": 1969,
+      "score": 1929,
+      "comments": 132,
+      "source": "all"
+    },
+    {
+      "record_pk": 5140,
+      "score": 1803,
+      "comments": 258,
+      "source": "washingtondc"
+    },
+    {
+      "record_pk": 3129,
+      "score": 1775,
+      "comments": 158,
+      "source": "fuckcars"
+    },
+    {
+      "record_pk": 3976,
+      "score": 1756,
+      "comments": 86,
+      "source": "bicycling"
+    },
+    {
+      "record_pk": 4200,
+      "score": 1736,
+      "comments": 543,
+      "source": "roadcam"
+    },
+    {
+      "record_pk": 1622,
+      "score": 1586,
+      "comments": 237,
+      "source": "all"
+    },
+    {
+      "record_pk": 5147,
+      "score": 1571,
+      "comments": 312,
+      "source": "washingtondc"
+    },
+    {
+      "record_pk": 3384,
+      "score": 1538,
+      "comments": 33,
+      "source": "all"
+    },
+    {
+      "record_pk": 3123,
+      "score": 1530,
+      "comments": 142,
+      "source": "fuckcars"
+    },
+    {
+      "record_pk": 1563,
+      "score": 1518,
+      "comments": 129,
+      "source": "all"
+    },
+    {
+      "record_pk": 2011,
+      "score": 1495,
+      "comments": 103,
+      "source": "all"
+    },
+    {
+      "record_pk": 5054,
+      "score": 1478,
+      "comments": 391,
+      "source": "Seattle"
+    },
+    {
+      "record_pk": 5172,
+      "score": 1444,
+      "comments": 211,
+      "source": "Austin"
+    },
+    {
+      "record_pk": 3781,
+      "score": 1424,
+      "comments": 66,
+      "source": "all"
+    },
+    {
+      "record_pk": 3126,
+      "score": 1409,
+      "comments": 50,
+      "source": "fuckcars"
+    },
+    {
+      "record_pk": 5219,
+      "score": 1404,
+      "comments": 174,
+      "source": "sanfrancisco"
+    },
+    {
+      "record_pk": 5010,
+      "score": 1394,
+      "comments": 314,
+      "source": "chicago"
+    },
+    {
+      "record_pk": 5122,
+      "score": 1388,
+      "comments": 391,
+      "source": "boston"
+    },
+    {
+      "record_pk": 5056,
+      "score": 1363,
+      "comments": 278,
+      "source": "Seattle"
+    },
+    {
+      "record_pk": 5125,
+      "score": 1363,
+      "comments": 504,
+      "source": "boston"
+    },
+    {
+      "record_pk": 4810,
+      "score": 1329,
+      "comments": 49,
+      "source": "all"
+    },
+    {
+      "record_pk": 5109,
+      "score": 1314,
+      "comments": 363,
+      "source": "boston"
+    },
+    {
+      "record_pk": 4085,
+      "score": 1224,
+      "comments": 254,
+      "source": "cycling"
+    },
+    {
+      "record_pk": 5139,
+      "score": 1211,
+      "comments": 151,
+      "source": "washingtondc"
+    },
+    {
+      "record_pk": 1944,
+      "score": 1190,
+      "comments": 372,
+      "source": "all"
+    },
+    {
+      "record_pk": 5179,
+      "score": 1188,
+      "comments": 195,
+      "source": "Denver"
+    },
+    {
+      "record_pk": 2136,
+      "score": 1178,
+      "comments": 375,
+      "source": "all"
+    },
+    {
+      "record_pk": 4176,
+      "score": 1162,
+      "comments": 82,
+      "source": "fuckcars"
+    },
+    {
+      "record_pk": 4644,
+      "score": 1142,
+      "comments": 133,
+      "source": "all"
+    },
+    {
+      "record_pk": 5039,
+      "score": 1142,
+      "comments": 171,
+      "source": "LosAngeles"
+    },
+    {
+      "record_pk": 4728,
+      "score": 1138,
+      "comments": 470,
+      "source": "all"
+    },
+    {
+      "record_pk": 3114,
+      "score": 1132,
+      "comments": 76,
+      "source": "fuckcars"
+    },
+    {
+      "record_pk": 3886,
+      "score": 1119,
+      "comments": 371,
+      "source": "all"
+    },
+    {
+      "record_pk": 5098,
+      "score": 1102,
+      "comments": 215,
+      "source": "Portland"
+    },
+    {
+      "record_pk": 5189,
+      "score": 1094,
+      "comments": 272,
+      "source": "Denver"
+    },
+    {
+      "record_pk": 3759,
+      "score": 1079,
+      "comments": 353,
+      "source": "all"
+    },
+    {
+      "record_pk": 5025,
+      "score": 1074,
+      "comments": 147,
+      "source": "LosAngeles"
+    },
+    {
+      "record_pk": 5123,
+      "score": 1039,
+      "comments": 255,
+      "source": "boston"
+    },
+    {
+      "record_pk": 3961,
+      "score": 1031,
+      "comments": 175,
+      "source": "bicycling"
+    },
+    {
+      "record_pk": 5055,
+      "score": 1028,
+      "comments": 276,
+      "source": "Seattle"
+    },
+    {
+      "record_pk": 2102,
+      "score": 1026,
+      "comments": 332,
+      "source": "all"
+    },
+    {
+      "record_pk": 2204,
+      "score": 1021,
+      "comments": 321,
+      "source": "all"
+    },
+    {
+      "record_pk": 3278,
+      "score": 1014,
+      "comments": 107,
+      "source": "fuckcars"
+    },
+    {
+      "record_pk": 3350,
+      "score": 1014,
+      "comments": 83,
+      "source": "urbanplanning"
+    },
+    {
+      "record_pk": 5287,
+      "score": 1003,
+      "comments": 203,
+      "source": "houston"
+    },
+    {
+      "record_pk": 4671,
+      "score": 998,
+      "comments": 20,
+      "source": "all"
+    },
+    {
+      "record_pk": 4163,
+      "score": 998,
+      "comments": 64,
+      "source": "fuckcars"
+    },
+    {
+      "record_pk": 5158,
+      "score": 984,
+      "comments": 237,
+      "source": "Austin"
+    },
+    {
+      "record_pk": 1146,
+      "score": 964,
+      "comments": 171,
+      "source": "urbanplanning"
+    },
+    {
+      "record_pk": 4407,
+      "score": 952,
+      "comments": 329,
+      "source": "all"
+    },
+    {
+      "record_pk": 5265,
+      "score": 952,
+      "comments": 212,
+      "source": "sanfrancisco"
+    },
+    {
+      "record_pk": 1954,
+      "score": 935,
+      "comments": 134,
+      "source": "all"
+    },
+    {
+      "record_pk": 1143,
+      "score": 931,
+      "comments": 7,
+      "source": "fuckcars"
+    },
+    {
+      "record_pk": 4415,
+      "score": 931,
+      "comments": 336,
+      "source": "all"
+    },
+    {
+      "record_pk": 4005,
+      "score": 900,
+      "comments": 31,
+      "source": "bicycling"
+    },
+    {
+      "record_pk": 2839,
+      "score": 897,
+      "comments": 50,
+      "source": "all"
+    },
+    {
+      "record_pk": 5297,
+      "score": 895,
+      "comments": 280,
+      "source": "houston"
+    },
+    {
+      "record_pk": 3216,
+      "score": 893,
+      "comments": 56,
+      "source": "fuckcars"
+    },
+    {
+      "record_pk": 4007,
+      "score": 890,
+      "comments": 124,
+      "source": "bicycling"
+    },
+    {
+      "record_pk": 4821,
+      "score": 878,
+      "comments": 345,
+      "source": "all"
+    },
+    {
+      "record_pk": 4080,
+      "score": 874,
+      "comments": 145,
+      "source": "cycling"
+    },
+    {
+      "record_pk": 4099,
+      "score": 873,
+      "comments": 185,
+      "source": "cycling"
+    },
+    {
+      "record_pk": 1892,
+      "score": 863,
+      "comments": 144,
+      "source": "all"
+    },
+    {
+      "record_pk": 4400,
+      "score": 859,
+      "comments": 132,
+      "source": "all"
+    },
+    {
+      "record_pk": 1606,
+      "score": 856,
+      "comments": 113,
+      "source": "all"
+    },
+    {
+      "record_pk": 3119,
+      "score": 854,
+      "comments": 167,
+      "source": "fuckcars"
+    },
+    {
+      "record_pk": 1947,
+      "score": 847,
+      "comments": 75,
+      "source": "all"
+    },
+    {
+      "record_pk": 5143,
+      "score": 847,
+      "comments": 295,
+      "source": "washingtondc"
+    },
+    {
+      "record_pk": 3725,
+      "score": 843,
+      "comments": 233,
+      "source": "all"
+    },
+    {
+      "record_pk": 3210,
+      "score": 840,
+      "comments": 120,
+      "source": "fuckcars"
+    },
+    {
+      "record_pk": 2756,
+      "score": 839,
+      "comments": 41,
+      "source": "all"
+    },
+    {
+      "record_pk": 4267,
+      "score": 828,
+      "comments": 249,
+      "source": "all"
+    },
+    {
+      "record_pk": 3274,
+      "score": 828,
+      "comments": 139,
+      "source": "fuckcars"
+    },
+    {
+      "record_pk": 4126,
+      "score": 820,
+      "comments": 112,
+      "source": "bikecommuting"
+    },
+    {
+      "record_pk": 3213,
+      "score": 819,
+      "comments": 36,
+      "source": "fuckcars"
+    },
+    {
+      "record_pk": 4897,
+      "score": 811,
+      "comments": 91,
+      "source": "all"
+    },
+    {
+      "record_pk": 4157,
+      "score": 809,
+      "comments": 47,
+      "source": "fuckcars"
+    },
+    {
+      "record_pk": 5112,
+      "score": 798,
+      "comments": 123,
+      "source": "boston"
+    },
+    {
+      "record_pk": 3073,
+      "score": 793,
+      "comments": 22,
+      "source": "cycling"
+    },
+    {
+      "record_pk": 1921,
+      "score": 789,
+      "comments": 87,
+      "source": "all"
+    },
+    {
+      "record_pk": 1905,
+      "score": 787,
+      "comments": 180,
+      "source": "all"
+    },
+    {
+      "record_pk": 1996,
+      "score": 787,
+      "comments": 148,
+      "source": "all"
+    },
+    {
+      "record_pk": 5267,
+      "score": 787,
+      "comments": 301,
+      "source": "sanfrancisco"
+    },
+    {
+      "record_pk": 3973,
+      "score": 785,
+      "comments": 141,
+      "source": "bicycling"
+    },
+    {
+      "record_pk": 4086,
+      "score": 774,
+      "comments": 145,
+      "source": "cycling"
+    },
+    {
+      "record_pk": 3229,
+      "score": 759,
+      "comments": 28,
+      "source": "fuckcars"
+    },
+    {
+      "record_pk": 5196,
+      "score": 759,
+      "comments": 181,
+      "source": "Denver"
+    },
+    {
+      "record_pk": 5092,
+      "score": 757,
+      "comments": 241,
+      "source": "Portland"
+    },
+    {
+      "record_pk": 4842,
+      "score": 755,
+      "comments": 181,
+      "source": "all"
+    },
+    {
+      "record_pk": 4420,
+      "score": 753,
+      "comments": 108,
+      "source": "all"
+    },
+    {
+      "record_pk": 2944,
+      "score": 747,
+      "comments": 204,
+      "source": "all"
+    },
+    {
+      "record_pk": 2117,
+      "score": 746,
+      "comments": 53,
+      "source": "all"
+    },
+    {
+      "record_pk": 3217,
+      "score": 734,
+      "comments": 18,
+      "source": "fuckcars"
+    },
+    {
+      "record_pk": 1614,
+      "score": 731,
+      "comments": 224,
+      "source": "all"
+    },
+    {
+      "record_pk": 5251,
+      "score": 729,
+      "comments": 242,
+      "source": "sanfrancisco"
+    },
+    {
+      "record_pk": 2865,
+      "score": 728,
+      "comments": 152,
+      "source": "all"
+    },
+    {
+      "record_pk": 4918,
+      "score": 717,
+      "comments": 39,
+      "source": "micromobilityNYC"
+    },
+    {
+      "record_pk": 3794,
+      "score": 716,
+      "comments": 31,
+      "source": "all"
+    },
+    {
+      "record_pk": 5127,
+      "score": 716,
+      "comments": 245,
+      "source": "boston"
+    },
+    {
+      "record_pk": 5076,
+      "score": 711,
+      "comments": 180,
+      "source": "Portland"
+    },
+    {
+      "record_pk": 5184,
+      "score": 706,
+      "comments": 253,
+      "source": "Denver"
+    },
+    {
+      "record_pk": 5131,
+      "score": 706,
+      "comments": 194,
+      "source": "philadelphia"
+    },
+    {
+      "record_pk": 1572,
+      "score": 700,
+      "comments": 154,
+      "source": "all"
+    },
+    {
+      "record_pk": 5077,
+      "score": 698,
+      "comments": 160,
+      "source": "Portland"
+    },
+    {
+      "record_pk": 3112,
+      "score": 697,
+      "comments": 52,
+      "source": "fuckcars"
+    },
+    {
+      "record_pk": 2144,
+      "score": 696,
+      "comments": 191,
+      "source": "all"
+    },
+    {
+      "record_pk": 3991,
+      "score": 694,
+      "comments": 78,
+      "source": "bicycling"
+    },
+    {
+      "record_pk": 2071,
+      "score": 689,
+      "comments": 53,
+      "source": "all"
+    },
+    {
+      "record_pk": 5000,
+      "score": 689,
+      "comments": 185,
+      "source": "chicago"
+    },
+    {
+      "record_pk": 2206,
+      "score": 687,
+      "comments": 200,
+      "source": "all"
+    },
+    {
+      "record_pk": 3410,
+      "score": 685,
+      "comments": 229,
+      "source": "all"
+    },
+    {
+      "record_pk": 3239,
+      "score": 682,
+      "comments": 73,
+      "source": "fuckcars"
+    },
+    {
+      "record_pk": 3744,
+      "score": 672,
+      "comments": 136,
+      "source": "all"
+    },
+    {
+      "record_pk": 3797,
+      "score": 672,
+      "comments": 171,
+      "source": "all"
+    },
+    {
+      "record_pk": 3479,
+      "score": 669,
+      "comments": 150,
+      "source": "all"
+    },
+    {
+      "record_pk": 5141,
+      "score": 662,
+      "comments": 196,
+      "source": "washingtondc"
+    },
+    {
+      "record_pk": 2881,
+      "score": 660,
+      "comments": 156,
+      "source": "all"
+    },
+    {
+      "record_pk": 4073,
+      "score": 659,
+      "comments": 31,
+      "source": "cycling"
+    },
+    {
+      "record_pk": 3779,
+      "score": 657,
+      "comments": 111,
+      "source": "all"
+    },
+    {
+      "record_pk": 4057,
+      "score": 655,
+      "comments": 103,
+      "source": "bicycling"
+    },
+    {
+      "record_pk": 2325,
+      "score": 650,
+      "comments": 239,
+      "source": "all"
+    },
+    {
+      "record_pk": 4839,
+      "score": 648,
+      "comments": 143,
+      "source": "all"
+    },
+    {
+      "record_pk": 5230,
+      "score": 647,
+      "comments": 163,
+      "source": "sanfrancisco"
+    },
+    {
+      "record_pk": 3864,
+      "score": 646,
+      "comments": 156,
+      "source": "all"
+    },
+    {
+      "record_pk": 5203,
+      "score": 646,
+      "comments": 188,
+      "source": "Denver"
+    },
+    {
+      "record_pk": 4087,
+      "score": 643,
+      "comments": 112,
+      "source": "cycling"
+    },
+    {
+      "record_pk": 4079,
+      "score": 639,
+      "comments": 106,
+      "source": "cycling"
+    },
+    {
+      "record_pk": 4901,
+      "score": 632,
+      "comments": 174,
+      "source": "all"
+    },
+    {
+      "record_pk": 2871,
+      "score": 629,
+      "comments": 78,
+      "source": "all"
+    },
+    {
+      "record_pk": 2146,
+      "score": 629,
+      "comments": 118,
+      "source": "all"
+    },
+    {
+      "record_pk": 5164,
+      "score": 626,
+      "comments": 150,
+      "source": "Austin"
+    },
+    {
+      "record_pk": 5026,
+      "score": 622,
+      "comments": 89,
+      "source": "LosAngeles"
+    },
+    {
+      "record_pk": 5201,
+      "score": 617,
+      "comments": 131,
+      "source": "Denver"
+    },
+    {
+      "record_pk": 1919,
+      "score": 609,
+      "comments": 220,
+      "source": "all"
+    },
+    {
+      "record_pk": 2904,
+      "score": 607,
+      "comments": 237,
+      "source": "all"
+    },
+    {
+      "record_pk": 3785,
+      "score": 605,
+      "comments": 96,
+      "source": "all"
+    },
+    {
+      "record_pk": 1183,
+      "score": 602,
+      "comments": 25,
+      "source": "fuckcars"
+    },
+    {
+      "record_pk": 2920,
+      "score": 601,
+      "comments": 106,
+      "source": "all"
+    },
+    {
+      "record_pk": 4822,
+      "score": 600,
+      "comments": 218,
+      "source": "all"
+    },
+    {
+      "record_pk": 5150,
+      "score": 598,
+      "comments": 145,
+      "source": "washingtondc"
+    },
+    {
+      "record_pk": 5194,
+      "score": 597,
+      "comments": 126,
+      "source": "Denver"
+    },
+    {
+      "record_pk": 4393,
+      "score": 597,
+      "comments": 226,
+      "source": "all"
+    },
+    {
+      "record_pk": 5043,
+      "score": 596,
+      "comments": 231,
+      "source": "LosAngeles"
+    },
+    {
+      "record_pk": 2827,
+      "score": 591,
+      "comments": 190,
+      "source": "all"
+    },
+    {
+      "record_pk": 1862,
+      "score": 590,
+      "comments": 90,
+      "source": "all"
+    },
+    {
+      "record_pk": 4276,
+      "score": 590,
+      "comments": 142,
+      "source": "all"
+    },
+    {
+      "record_pk": 2942,
+      "score": 588,
+      "comments": 139,
+      "source": "all"
+    },
+    {
+      "record_pk": 4012,
+      "score": 585,
+      "comments": 132,
+      "source": "bicycling"
+    },
+    {
+      "record_pk": 5298,
+      "score": 583,
+      "comments": 172,
+      "source": "houston"
+    },
+    {
+      "record_pk": 5063,
+      "score": 581,
+      "comments": 85,
+      "source": "Seattle"
+    },
+    {
+      "record_pk": 3047,
+      "score": 580,
+      "comments": 63,
+      "source": "bicycling"
+    },
+    {
+      "record_pk": 2752,
+      "score": 574,
+      "comments": 87,
+      "source": "all"
+    },
+    {
+      "record_pk": 2194,
+      "score": 574,
+      "comments": 145,
+      "source": "all"
+    },
+    {
+      "record_pk": 5037,
+      "score": 571,
+      "comments": 86,
+      "source": "LosAngeles"
+    },
+    {
+      "record_pk": 3755,
+      "score": 570,
+      "comments": 104,
+      "source": "all"
+    },
+    {
+      "record_pk": 2823,
+      "score": 570,
+      "comments": 89,
+      "source": "all"
+    },
+    {
+      "record_pk": 2723,
+      "score": 569,
+      "comments": 88,
+      "source": "all"
+    },
+    {
+      "record_pk": 2924,
+      "score": 569,
+      "comments": 42,
+      "source": "all"
+    },
+    {
+      "record_pk": 1625,
+      "score": 561,
+      "comments": 180,
+      "source": "all"
+    },
+    {
+      "record_pk": 5148,
+      "score": 561,
+      "comments": 168,
+      "source": "washingtondc"
+    },
+    {
+      "record_pk": 5103,
+      "score": 560,
+      "comments": 148,
+      "source": "Portland"
+    },
+    {
+      "record_pk": 4342,
+      "score": 558,
+      "comments": 152,
+      "source": "all"
+    },
+    {
+      "record_pk": 2742,
+      "score": 552,
+      "comments": 195,
+      "source": "all"
+    },
+    {
+      "record_pk": 2422,
+      "score": 548,
+      "comments": 138,
+      "source": "all"
+    },
+    {
+      "record_pk": 3869,
+      "score": 545,
+      "comments": 138,
+      "source": "all"
+    },
+    {
+      "record_pk": 5255,
+      "score": 540,
+      "comments": 162,
+      "source": "sanfrancisco"
+    },
+    {
+      "record_pk": 5066,
+      "score": 539,
+      "comments": 73,
+      "source": "Portland"
+    },
+    {
+      "record_pk": 3421,
+      "score": 534,
+      "comments": 128,
+      "source": "all"
+    },
+    {
+      "record_pk": 4925,
+      "score": 531,
+      "comments": 141,
+      "source": "NYCbike"
+    },
+    {
+      "record_pk": 4089,
+      "score": 528,
+      "comments": 91,
+      "source": "cycling"
+    },
+    {
+      "record_pk": 2821,
+      "score": 525,
+      "comments": 181,
+      "source": "all"
+    },
+    {
+      "record_pk": 3790,
+      "score": 517,
+      "comments": 184,
+      "source": "all"
+    },
+    {
+      "record_pk": 2805,
+      "score": 517,
+      "comments": 55,
+      "source": "all"
+    },
+    {
+      "record_pk": 3150,
+      "score": 516,
+      "comments": 30,
+      "source": "fuckcars"
+    },
+    {
+      "record_pk": 3775,
+      "score": 513,
+      "comments": 53,
+      "source": "all"
+    },
+    {
+      "record_pk": 3803,
+      "score": 513,
+      "comments": 135,
+      "source": "all"
+    },
+    {
+      "record_pk": 3228,
+      "score": 513,
+      "comments": 18,
+      "source": "fuckcars"
+    },
+    {
+      "record_pk": 5288,
+      "score": 513,
+      "comments": 143,
+      "source": "houston"
+    },
+    {
+      "record_pk": 2059,
+      "score": 512,
+      "comments": 51,
+      "source": "all"
+    },
+    {
+      "record_pk": 4530,
+      "score": 511,
+      "comments": 146,
+      "source": "all"
+    },
+    {
+      "record_pk": 5047,
+      "score": 506,
+      "comments": 189,
+      "source": "LosAngeles"
+    },
+    {
+      "record_pk": 3866,
+      "score": 503,
+      "comments": 111,
+      "source": "all"
+    },
+    {
+      "record_pk": 4155,
+      "score": 502,
+      "comments": 42,
+      "source": "fuckcars"
+    },
+    {
+      "record_pk": 5095,
+      "score": 502,
+      "comments": 118,
+      "source": "Portland"
+    },
+    {
+      "record_pk": 4987,
+      "score": 501,
+      "comments": 126,
+      "source": "chicago"
+    },
+    {
+      "record_pk": 2193,
+      "score": 501,
+      "comments": 116,
+      "source": "all"
+    },
+    {
+      "record_pk": 2456,
+      "score": 501,
+      "comments": 136,
+      "source": "all"
+    },
+    {
+      "record_pk": 2782,
+      "score": 500,
+      "comments": 123,
+      "source": "all"
+    },
+    {
+      "record_pk": 5065,
+      "score": 498,
+      "comments": 196,
+      "source": "Seattle"
+    },
+    {
+      "record_pk": 3344,
+      "score": 496,
+      "comments": 32,
+      "source": "urbanplanning"
+    },
+    {
+      "record_pk": 5059,
+      "score": 494,
+      "comments": 179,
+      "source": "Seattle"
+    },
+    {
+      "record_pk": 4603,
+      "score": 493,
+      "comments": 83,
+      "source": "all"
+    },
+    {
+      "record_pk": 3998,
+      "score": 491,
+      "comments": 47,
+      "source": "bicycling"
+    },
+    {
+      "record_pk": 3871,
+      "score": 489,
+      "comments": 104,
+      "source": "all"
+    },
+    {
+      "record_pk": 1935,
+      "score": 487,
+      "comments": 25,
+      "source": "all"
+    },
+    {
+      "record_pk": 5171,
+      "score": 487,
+      "comments": 168,
+      "source": "Austin"
+    },
+    {
+      "record_pk": 2060,
+      "score": 480,
+      "comments": 126,
+      "source": "all"
+    },
+    {
+      "record_pk": 4156,
+      "score": 480,
+      "comments": 87,
+      "source": "fuckcars"
+    },
+    {
+      "record_pk": 3988,
+      "score": 479,
+      "comments": 122,
+      "source": "bicycling"
+    },
+    {
+      "record_pk": 3971,
+      "score": 478,
+      "comments": 78,
+      "source": "bicycling"
+    },
+    {
+      "record_pk": 5178,
+      "score": 476,
+      "comments": 121,
+      "source": "Austin"
+    },
+    {
+      "record_pk": 5006,
+      "score": 473,
+      "comments": 107,
+      "source": "chicago"
+    },
+    {
+      "record_pk": 5185,
+      "score": 471,
+      "comments": 79,
+      "source": "Denver"
+    },
+    {
+      "record_pk": 2789,
+      "score": 470,
+      "comments": 133,
+      "source": "all"
+    },
+    {
+      "record_pk": 3393,
+      "score": 466,
+      "comments": 118,
+      "source": "all"
+    },
+    {
+      "record_pk": 5181,
+      "score": 465,
+      "comments": 71,
+      "source": "Denver"
+    },
+    {
+      "record_pk": 2747,
+      "score": 464,
+      "comments": 43,
+      "source": "all"
+    },
+    {
+      "record_pk": 5132,
+      "score": 464,
+      "comments": 149,
+      "source": "philadelphia"
+    },
+    {
+      "record_pk": 3688,
+      "score": 462,
+      "comments": 57,
+      "source": "all"
+    },
+    {
+      "record_pk": 5210,
+      "score": 462,
+      "comments": 196,
+      "source": "Minneapolis"
+    },
+    {
+      "record_pk": 4734,
+      "score": 461,
+      "comments": 119,
+      "source": "all"
+    },
+    {
+      "record_pk": 4416,
+      "score": 456,
+      "comments": 100,
+      "source": "all"
+    },
+    {
+      "record_pk": 4125,
+      "score": 456,
+      "comments": 50,
+      "source": "bikecommuting"
+    },
+    {
+      "record_pk": 4121,
+      "score": 454,
+      "comments": 141,
+      "source": "bikecommuting"
+    },
+    {
+      "record_pk": 4185,
+      "score": 453,
+      "comments": 50,
+      "source": "fuckcars"
+    },
+    {
+      "record_pk": 3752,
+      "score": 452,
+      "comments": 29,
+      "source": "all"
+    },
+    {
+      "record_pk": 4877,
+      "score": 451,
+      "comments": 70,
+      "source": "all"
+    },
+    {
+      "record_pk": 3801,
+      "score": 445,
+      "comments": 59,
+      "source": "all"
+    },
+    {
+      "record_pk": 4626,
+      "score": 444,
+      "comments": 102,
+      "source": "all"
+    },
+    {
+      "record_pk": 4871,
+      "score": 441,
+      "comments": 60,
+      "source": "all"
+    },
+    {
+      "record_pk": 4247,
+      "score": 440,
+      "comments": 14,
+      "source": "all"
+    },
+    {
+      "record_pk": 3817,
+      "score": 439,
+      "comments": 128,
+      "source": "all"
+    },
+    {
+      "record_pk": 1964,
+      "score": 438,
+      "comments": 14,
+      "source": "all"
+    },
+    {
+      "record_pk": 5108,
+      "score": 438,
+      "comments": 91,
+      "source": "boston"
+    },
+    {
+      "record_pk": 2387,
+      "score": 436,
+      "comments": 73,
+      "source": "all"
+    },
+    {
+      "record_pk": 4882,
+      "score": 436,
+      "comments": 115,
+      "source": "all"
+    },
+    {
+      "record_pk": 1871,
+      "score": 435,
+      "comments": 131,
+      "source": "all"
+    },
+    {
+      "record_pk": 5176,
+      "score": 432,
+      "comments": 131,
+      "source": "Austin"
+    },
+    {
+      "record_pk": 5186,
+      "score": 431,
+      "comments": 113,
+      "source": "Denver"
+    },
+    {
+      "record_pk": 4188,
+      "score": 431,
+      "comments": 45,
+      "source": "fuckcars"
+    },
+    {
+      "record_pk": 4712,
+      "score": 430,
+      "comments": 11,
+      "source": "all"
+    },
+    {
+      "record_pk": 4815,
+      "score": 430,
+      "comments": 156,
+      "source": "all"
+    },
+    {
+      "record_pk": 1879,
+      "score": 427,
+      "comments": 79,
+      "source": "all"
+    },
+    {
+      "record_pk": 1636,
+      "score": 427,
+      "comments": 124,
+      "source": "all"
+    },
+    {
+      "record_pk": 3673,
+      "score": 425,
+      "comments": 60,
+      "source": "all"
+    },
+    {
+      "record_pk": 3676,
+      "score": 424,
+      "comments": 126,
+      "source": "all"
+    },
+    {
+      "record_pk": 3665,
+      "score": 419,
+      "comments": 61,
+      "source": "all"
+    },
+    {
+      "record_pk": 2070,
+      "score": 417,
+      "comments": 96,
+      "source": "all"
+    },
+    {
+      "record_pk": 1648,
+      "score": 416,
+      "comments": 103,
+      "source": "all"
+    },
+    {
+      "record_pk": 5024,
+      "score": 416,
+      "comments": 128,
+      "source": "LosAngeles"
+    },
+    {
+      "record_pk": 3832,
+      "score": 412,
+      "comments": 93,
+      "source": "all"
+    },
+    {
+      "record_pk": 3756,
+      "score": 410,
+      "comments": 48,
+      "source": "all"
+    },
+    {
+      "record_pk": 3440,
+      "score": 409,
+      "comments": 131,
+      "source": "all"
+    },
+    {
+      "record_pk": 2903,
+      "score": 408,
+      "comments": 114,
+      "source": "all"
+    },
+    {
+      "record_pk": 2105,
+      "score": 407,
+      "comments": 48,
+      "source": "all"
+    },
+    {
+      "record_pk": 2762,
+      "score": 407,
+      "comments": 56,
+      "source": "all"
+    },
+    {
+      "record_pk": 1962,
+      "score": 405,
+      "comments": 113,
+      "source": "all"
+    },
+    {
+      "record_pk": 2183,
+      "score": 405,
+      "comments": 110,
+      "source": "all"
+    },
+    {
+      "record_pk": 5073,
+      "score": 405,
+      "comments": 177,
+      "source": "Portland"
+    },
+    {
+      "record_pk": 1618,
+      "score": 403,
+      "comments": 175,
+      "source": "all"
+    },
+    {
+      "record_pk": 3802,
+      "score": 403,
+      "comments": 62,
+      "source": "all"
+    },
+    {
+      "record_pk": 3683,
+      "score": 402,
+      "comments": 126,
+      "source": "all"
+    },
+    {
+      "record_pk": 3771,
+      "score": 402,
+      "comments": 117,
+      "source": "all"
+    },
+    {
+      "record_pk": 5226,
+      "score": 402,
+      "comments": 114,
+      "source": "sanfrancisco"
+    },
+    {
+      "record_pk": 3429,
+      "score": 401,
+      "comments": 104,
+      "source": "all"
+    },
+    {
+      "record_pk": 4899,
+      "score": 399,
+      "comments": 116,
+      "source": "all"
+    },
+    {
+      "record_pk": 2045,
+      "score": 397,
+      "comments": 22,
+      "source": "all"
+    },
+    {
+      "record_pk": 1633,
+      "score": 397,
+      "comments": 151,
+      "source": "all"
+    },
+    {
+      "record_pk": 1923,
+      "score": 395,
+      "comments": 46,
+      "source": "all"
+    },
+    {
+      "record_pk": 3939,
+      "score": 394,
+      "comments": 52,
+      "source": "all"
+    },
+    {
+      "record_pk": 3271,
+      "score": 394,
+      "comments": 18,
+      "source": "fuckcars"
+    },
+    {
+      "record_pk": 5075,
+      "score": 394,
+      "comments": 165,
+      "source": "Portland"
+    },
+    {
+      "record_pk": 3739,
+      "score": 392,
+      "comments": 80,
+      "source": "all"
+    },
+    {
+      "record_pk": 5296,
+      "score": 392,
+      "comments": 126,
+      "source": "houston"
+    },
+    {
+      "record_pk": 5227,
+      "score": 391,
+      "comments": 68,
+      "source": "sanfrancisco"
+    },
+    {
+      "record_pk": 1151,
+      "score": 389,
+      "comments": 29,
+      "source": "urbanplanning"
+    },
+    {
+      "record_pk": 4724,
+      "score": 387,
+      "comments": 129,
+      "source": "all"
+    },
+    {
+      "record_pk": 1889,
+      "score": 386,
+      "comments": 43,
+      "source": "all"
+    },
+    {
+      "record_pk": 3279,
+      "score": 383,
+      "comments": 69,
+      "source": "fuckcars"
+    },
+    {
+      "record_pk": 2846,
+      "score": 380,
+      "comments": 70,
+      "source": "all"
+    },
+    {
+      "record_pk": 4383,
+      "score": 380,
+      "comments": 144,
+      "source": "all"
+    },
+    {
+      "record_pk": 5182,
+      "score": 376,
+      "comments": 83,
+      "source": "Denver"
+    },
+    {
+      "record_pk": 1588,
+      "score": 373,
+      "comments": 34,
+      "source": "all"
+    },
+    {
+      "record_pk": 5233,
+      "score": 373,
+      "comments": 80,
+      "source": "sanfrancisco"
+    },
+    {
+      "record_pk": 2725,
+      "score": 371,
+      "comments": 61,
+      "source": "all"
+    },
+    {
+      "record_pk": 1585,
+      "score": 370,
+      "comments": 63,
+      "source": "all"
+    },
+    {
+      "record_pk": 4485,
+      "score": 368,
+      "comments": 41,
+      "source": "all"
+    },
+    {
+      "record_pk": 2868,
+      "score": 368,
+      "comments": 89,
+      "source": "all"
+    },
+    {
+      "record_pk": 4874,
+      "score": 367,
+      "comments": 72,
+      "source": "all"
+    },
+    {
+      "record_pk": 5216,
+      "score": 365,
+      "comments": 83,
+      "source": "sanfrancisco"
+    },
+    {
+      "record_pk": 5193,
+      "score": 362,
+      "comments": 92,
+      "source": "Denver"
+    },
+    {
+      "record_pk": 3039,
+      "score": 361,
+      "comments": 89,
+      "source": "bicycling"
+    },
+    {
+      "record_pk": 3773,
+      "score": 358,
+      "comments": 79,
+      "source": "all"
+    },
+    {
+      "record_pk": 4297,
+      "score": 358,
+      "comments": 34,
+      "source": "all"
+    },
+    {
+      "record_pk": 5188,
+      "score": 356,
+      "comments": 77,
+      "source": "Denver"
+    },
+    {
+      "record_pk": 3681,
+      "score": 355,
+      "comments": 97,
+      "source": "all"
+    },
+    {
+      "record_pk": 5269,
+      "score": 355,
+      "comments": 75,
+      "source": "SanJose"
+    },
+    {
+      "record_pk": 5167,
+      "score": 355,
+      "comments": 125,
+      "source": "Austin"
+    },
+    {
+      "record_pk": 3497,
+      "score": 354,
+      "comments": 95,
+      "source": "all"
+    },
+    {
+      "record_pk": 5218,
+      "score": 350,
+      "comments": 91,
+      "source": "sanfrancisco"
+    },
+    {
+      "record_pk": 4872,
+      "score": 350,
+      "comments": 70,
+      "source": "all"
+    },
+    {
+      "record_pk": 5058,
+      "score": 349,
+      "comments": 54,
+      "source": "Seattle"
+    },
+    {
+      "record_pk": 2855,
+      "score": 345,
+      "comments": 29,
+      "source": "all"
+    },
+    {
+      "record_pk": 3975,
+      "score": 345,
+      "comments": 57,
+      "source": "bicycling"
+    },
+    {
+      "record_pk": 4950,
+      "score": 345,
+      "comments": 108,
+      "source": "NYCbike"
+    },
+    {
+      "record_pk": 3745,
+      "score": 342,
+      "comments": 66,
+      "source": "all"
+    },
+    {
+      "record_pk": 4211,
+      "score": 341,
+      "comments": 64,
+      "source": "all"
+    },
+    {
+      "record_pk": 4864,
+      "score": 341,
+      "comments": 118,
+      "source": "all"
+    },
+    {
+      "record_pk": 3438,
+      "score": 341,
+      "comments": 54,
+      "source": "all"
+    },
+    {
+      "record_pk": 2145,
+      "score": 340,
+      "comments": 60,
+      "source": "all"
+    },
+    {
+      "record_pk": 3139,
+      "score": 340,
+      "comments": 34,
+      "source": "fuckcars"
+    },
+    {
+      "record_pk": 4993,
+      "score": 340,
+      "comments": 115,
+      "source": "chicago"
+    },
+    {
+      "record_pk": 4903,
+      "score": 339,
+      "comments": 123,
+      "source": "all"
+    },
+    {
+      "record_pk": 3403,
+      "score": 338,
+      "comments": 37,
+      "source": "all"
+    },
+    {
+      "record_pk": 2423,
+      "score": 337,
+      "comments": 97,
+      "source": "all"
+    },
+    {
+      "record_pk": 4500,
+      "score": 336,
+      "comments": 34,
+      "source": "all"
+    },
+    {
+      "record_pk": 4738,
+      "score": 336,
+      "comments": 32,
+      "source": "all"
+    },
+    {
+      "record_pk": 3124,
+      "score": 334,
+      "comments": 50,
+      "source": "fuckcars"
+    },
+    {
+      "record_pk": 3367,
+      "score": 332,
+      "comments": 67,
+      "source": "all"
+    },
+    {
+      "record_pk": 4465,
+      "score": 330,
+      "comments": 70,
+      "source": "all"
+    },
+    {
+      "record_pk": 4075,
+      "score": 330,
+      "comments": 38,
+      "source": "cycling"
+    },
+    {
+      "record_pk": 5166,
+      "score": 330,
+      "comments": 110,
+      "source": "Austin"
+    },
+    {
+      "record_pk": 4885,
+      "score": 328,
+      "comments": 82,
+      "source": "all"
+    },
+    {
+      "record_pk": 2763,
+      "score": 326,
+      "comments": 13,
+      "source": "all"
+    },
+    {
+      "record_pk": 4854,
+      "score": 324,
+      "comments": 76,
+      "source": "all"
+    },
+    {
+      "record_pk": 3215,
+      "score": 324,
+      "comments": 8,
+      "source": "fuckcars"
+    },
+    {
+      "record_pk": 4744,
+      "score": 324,
+      "comments": 90,
+      "source": "all"
+    },
+    {
+      "record_pk": 5236,
+      "score": 324,
+      "comments": 54,
+      "source": "sanfrancisco"
+    },
+    {
+      "record_pk": 3395,
+      "score": 323,
+      "comments": 70,
+      "source": "all"
+    },
+    {
+      "record_pk": 5097,
+      "score": 323,
+      "comments": 84,
+      "source": "Portland"
+    },
+    {
+      "record_pk": 5085,
+      "score": 323,
+      "comments": 118,
+      "source": "Portland"
+    },
+    {
+      "record_pk": 4482,
+      "score": 322,
+      "comments": 42,
+      "source": "all"
+    },
+    {
+      "record_pk": 4650,
+      "score": 321,
+      "comments": 23,
+      "source": "all"
+    },
+    {
+      "record_pk": 4948,
+      "score": 317,
+      "comments": 44,
+      "source": "NYCbike"
+    },
+    {
+      "record_pk": 3693,
+      "score": 316,
+      "comments": 44,
+      "source": "all"
+    },
+    {
+      "record_pk": 5268,
+      "score": 315,
+      "comments": 96,
+      "source": "SanJose"
+    },
+    {
+      "record_pk": 3695,
+      "score": 312,
+      "comments": 12,
+      "source": "all"
+    },
+    {
+      "record_pk": 4319,
+      "score": 311,
+      "comments": 79,
+      "source": "all"
+    },
+    {
+      "record_pk": 4159,
+      "score": 311,
+      "comments": 16,
+      "source": "fuckcars"
+    },
+    {
+      "record_pk": 3872,
+      "score": 310,
+      "comments": 88,
+      "source": "all"
+    },
+    {
+      "record_pk": 2915,
+      "score": 310,
+      "comments": 51,
+      "source": "all"
+    },
+    {
+      "record_pk": 1977,
+      "score": 308,
+      "comments": 37,
+      "source": "all"
+    },
+    {
+      "record_pk": 2935,
+      "score": 308,
+      "comments": 77,
+      "source": "all"
+    },
+    {
+      "record_pk": 4171,
+      "score": 308,
+      "comments": 38,
+      "source": "fuckcars"
+    },
+    {
+      "record_pk": 3905,
+      "score": 307,
+      "comments": 54,
+      "source": "all"
+    },
+    {
+      "record_pk": 4300,
+      "score": 307,
+      "comments": 82,
+      "source": "all"
+    },
+    {
+      "record_pk": 4831,
+      "score": 306,
+      "comments": 101,
+      "source": "all"
+    },
+    {
+      "record_pk": 3240,
+      "score": 305,
+      "comments": 12,
+      "source": "fuckcars"
+    },
+    {
+      "record_pk": 1571,
+      "score": 303,
+      "comments": 63,
+      "source": "all"
+    },
+    {
+      "record_pk": 3374,
+      "score": 303,
+      "comments": 109,
+      "source": "all"
+    },
+    {
+      "record_pk": 2106,
+      "score": 302,
+      "comments": 5,
+      "source": "all"
+    },
+    {
+      "record_pk": 4862,
+      "score": 302,
+      "comments": 57,
+      "source": "all"
+    },
+    {
+      "record_pk": 4095,
+      "score": 302,
+      "comments": 33,
+      "source": "cycling"
+    },
+    {
+      "record_pk": 5202,
+      "score": 301,
+      "comments": 89,
+      "source": "Denver"
+    },
+    {
+      "record_pk": 3685,
+      "score": 299,
+      "comments": 76,
+      "source": "all"
+    },
+    {
+      "record_pk": 4497,
+      "score": 298,
+      "comments": 112,
+      "source": "all"
+    },
+    {
+      "record_pk": 4528,
+      "score": 298,
+      "comments": 76,
+      "source": "all"
+    },
+    {
+      "record_pk": 4911,
+      "score": 298,
+      "comments": 45,
+      "source": "micromobilityNYC"
+    },
+    {
+      "record_pk": 5081,
+      "score": 298,
+      "comments": 37,
+      "source": "Portland"
+    },
+    {
+      "record_pk": 3121,
+      "score": 296,
+      "comments": 26,
+      "source": "fuckcars"
+    },
+    {
+      "record_pk": 4097,
+      "score": 296,
+      "comments": 109,
+      "source": "cycling"
+    },
+    {
+      "record_pk": 5101,
+      "score": 295,
+      "comments": 90,
+      "source": "Portland"
+    },
+    {
+      "record_pk": 3768,
+      "score": 294,
+      "comments": 60,
+      "source": "all"
+    },
+    {
+      "record_pk": 4711,
+      "score": 294,
+      "comments": 29,
+      "source": "all"
+    },
+    {
+      "record_pk": 4050,
+      "score": 294,
+      "comments": 45,
+      "source": "bicycling"
+    },
+    {
+      "record_pk": 1880,
+      "score": 293,
+      "comments": 74,
+      "source": "all"
+    },
+    {
+      "record_pk": 4222,
+      "score": 293,
+      "comments": 36,
+      "source": "all"
+    },
+    {
+      "record_pk": 3226,
+      "score": 293,
+      "comments": 19,
+      "source": "fuckcars"
+    },
+    {
+      "record_pk": 4106,
+      "score": 293,
+      "comments": 119,
+      "source": "bikecommuting"
+    },
+    {
+      "record_pk": 1998,
+      "score": 292,
+      "comments": 79,
+      "source": "all"
+    },
+    {
+      "record_pk": 4291,
+      "score": 292,
+      "comments": 100,
+      "source": "all"
+    },
+    {
+      "record_pk": 4096,
+      "score": 292,
+      "comments": 55,
+      "source": "cycling"
+    },
+    {
+      "record_pk": 1933,
+      "score": 291,
+      "comments": 73,
+      "source": "all"
+    },
+    {
+      "record_pk": 3122,
+      "score": 290,
+      "comments": 9,
+      "source": "fuckcars"
+    },
+    {
+      "record_pk": 4270,
+      "score": 289,
+      "comments": 106,
+      "source": "all"
+    },
+    {
+      "record_pk": 5223,
+      "score": 288,
+      "comments": 52,
+      "source": "sanfrancisco"
+    },
+    {
+      "record_pk": 4049,
+      "score": 288,
+      "comments": 33,
+      "source": "bicycling"
+    },
+    {
+      "record_pk": 4989,
+      "score": 287,
+      "comments": 100,
+      "source": "chicago"
+    },
+    {
+      "record_pk": 3115,
+      "score": 286,
+      "comments": 13,
+      "source": "fuckcars"
+    },
+    {
+      "record_pk": 3117,
+      "score": 286,
+      "comments": 17,
+      "source": "fuckcars"
+    },
+    {
+      "record_pk": 2192,
+      "score": 285,
+      "comments": 61,
+      "source": "all"
+    },
+    {
+      "record_pk": 2933,
+      "score": 285,
+      "comments": 17,
+      "source": "all"
+    },
+    {
+      "record_pk": 5072,
+      "score": 285,
+      "comments": 99,
+      "source": "Portland"
+    },
+    {
+      "record_pk": 2076,
+      "score": 283,
+      "comments": 50,
+      "source": "all"
+    },
+    {
+      "record_pk": 2833,
+      "score": 282,
+      "comments": 91,
+      "source": "all"
+    },
+    {
+      "record_pk": 4921,
+      "score": 281,
+      "comments": 34,
+      "source": "micromobilityNYC"
+    },
+    {
+      "record_pk": 4979,
+      "score": 280,
+      "comments": 75,
+      "source": "NYCbike"
+    },
+    {
+      "record_pk": 2114,
+      "score": 279,
+      "comments": 52,
+      "source": "all"
+    },
+    {
+      "record_pk": 2531,
+      "score": 279,
+      "comments": 55,
+      "source": "all"
+    },
+    {
+      "record_pk": 5130,
+      "score": 278,
+      "comments": 56,
+      "source": "philadelphia"
+    },
+    {
+      "record_pk": 2486,
+      "score": 278,
+      "comments": 93,
+      "source": "all"
+    },
+    {
+      "record_pk": 3375,
+      "score": 275,
+      "comments": 71,
+      "source": "all"
+    },
+    {
+      "record_pk": 4235,
+      "score": 275,
+      "comments": 111,
+      "source": "all"
+    },
+    {
+      "record_pk": 4088,
+      "score": 274,
+      "comments": 36,
+      "source": "cycling"
+    },
+    {
+      "record_pk": 4605,
+      "score": 273,
+      "comments": 20,
+      "source": "all"
+    },
+    {
+      "record_pk": 4189,
+      "score": 272,
+      "comments": 36,
+      "source": "fuckcars"
+    },
+    {
+      "record_pk": 1576,
+      "score": 271,
+      "comments": 39,
+      "source": "all"
+    },
+    {
+      "record_pk": 1141,
+      "score": 271,
+      "comments": 39,
+      "source": "cycling"
+    },
+    {
+      "record_pk": 1938,
+      "score": 271,
+      "comments": 91,
+      "source": "all"
+    },
+    {
+      "record_pk": 3718,
+      "score": 271,
+      "comments": 78,
+      "source": "all"
+    },
+    {
+      "record_pk": 5206,
+      "score": 270,
+      "comments": 91,
+      "source": "Denver"
+    },
+    {
+      "record_pk": 2733,
+      "score": 269,
+      "comments": 51,
+      "source": "all"
+    },
+    {
+      "record_pk": 3858,
+      "score": 269,
+      "comments": 85,
+      "source": "all"
+    },
+    {
+      "record_pk": 2722,
+      "score": 268,
+      "comments": 53,
+      "source": "all"
+    },
+    {
+      "record_pk": 3796,
+      "score": 268,
+      "comments": 26,
+      "source": "all"
+    },
+    {
+      "record_pk": 5117,
+      "score": 268,
+      "comments": 71,
+      "source": "boston"
+    },
+    {
+      "record_pk": 3380,
+      "score": 266,
+      "comments": 12,
+      "source": "all"
+    },
+    {
+      "record_pk": 5173,
+      "score": 266,
+      "comments": 70,
+      "source": "Austin"
+    },
+    {
+      "record_pk": 2790,
+      "score": 264,
+      "comments": 17,
+      "source": "all"
+    },
+    {
+      "record_pk": 2899,
+      "score": 264,
+      "comments": 96,
+      "source": "all"
+    },
+    {
+      "record_pk": 1937,
+      "score": 263,
+      "comments": 83,
+      "source": "all"
+    },
+    {
+      "record_pk": 4245,
+      "score": 262,
+      "comments": 54,
+      "source": "all"
+    },
+    {
+      "record_pk": 5160,
+      "score": 262,
+      "comments": 73,
+      "source": "Austin"
+    },
+    {
+      "record_pk": 5254,
+      "score": 261,
+      "comments": 62,
+      "source": "sanfrancisco"
+    },
+    {
+      "record_pk": 3662,
+      "score": 260,
+      "comments": 100,
+      "source": "all"
+    },
+    {
+      "record_pk": 1982,
+      "score": 259,
+      "comments": 107,
+      "source": "all"
+    },
+    {
+      "record_pk": 3401,
+      "score": 258,
+      "comments": 78,
+      "source": "all"
+    },
+    {
+      "record_pk": 2426,
+      "score": 256,
+      "comments": 42,
+      "source": "all"
+    },
+    {
+      "record_pk": 3732,
+      "score": 255,
+      "comments": 50,
+      "source": "all"
+    },
+    {
+      "record_pk": 4583,
+      "score": 254,
+      "comments": 54,
+      "source": "all"
+    },
+    {
+      "record_pk": 5129,
+      "score": 253,
+      "comments": 51,
+      "source": "philadelphia"
+    },
+    {
+      "record_pk": 4947,
+      "score": 252,
+      "comments": 44,
+      "source": "NYCbike"
+    },
+    {
+      "record_pk": 4608,
+      "score": 250,
+      "comments": 27,
+      "source": "all"
+    },
+    {
+      "record_pk": 3481,
+      "score": 250,
+      "comments": 53,
+      "source": "all"
+    },
+    {
+      "record_pk": 5240,
+      "score": 250,
+      "comments": 67,
+      "source": "sanfrancisco"
+    },
+    {
+      "record_pk": 1950,
+      "score": 249,
+      "comments": 48,
+      "source": "all"
+    },
+    {
+      "record_pk": 2180,
+      "score": 248,
+      "comments": 55,
+      "source": "all"
+    },
+    {
+      "record_pk": 1886,
+      "score": 248,
+      "comments": 53,
+      "source": "all"
+    },
+    {
+      "record_pk": 1915,
+      "score": 248,
+      "comments": 73,
+      "source": "all"
+    },
+    {
+      "record_pk": 1993,
+      "score": 247,
+      "comments": 88,
+      "source": "all"
+    },
+    {
+      "record_pk": 2858,
+      "score": 247,
+      "comments": 44,
+      "source": "all"
+    },
+    {
+      "record_pk": 5012,
+      "score": 247,
+      "comments": 85,
+      "source": "chicago"
+    },
+    {
+      "record_pk": 2969,
+      "score": 244,
+      "comments": 47,
+      "source": "all"
+    },
+    {
+      "record_pk": 1161,
+      "score": 242,
+      "comments": 64,
+      "source": "all"
+    },
+    {
+      "record_pk": 5149,
+      "score": 242,
+      "comments": 19,
+      "source": "washingtondc"
+    },
+    {
+      "record_pk": 5180,
+      "score": 242,
+      "comments": 28,
+      "source": "Denver"
+    },
+    {
+      "record_pk": 4271,
+      "score": 241,
+      "comments": 40,
+      "source": "all"
+    },
+    {
+      "record_pk": 2941,
+      "score": 240,
+      "comments": 72,
+      "source": "all"
+    },
+    {
+      "record_pk": 1929,
+      "score": 238,
+      "comments": 50,
+      "source": "all"
+    },
+    {
+      "record_pk": 1178,
+      "score": 238,
+      "comments": 27,
+      "source": "fuckcars"
+    },
+    {
+      "record_pk": 2853,
+      "score": 237,
+      "comments": 62,
+      "source": "all"
+    },
+    {
+      "record_pk": 5291,
+      "score": 237,
+      "comments": 53,
+      "source": "houston"
+    },
+    {
+      "record_pk": 1994,
+      "score": 236,
+      "comments": 4,
+      "source": "all"
+    },
+    {
+      "record_pk": 5177,
+      "score": 236,
+      "comments": 99,
+      "source": "Austin"
+    },
+    {
+      "record_pk": 4582,
+      "score": 235,
+      "comments": 68,
+      "source": "all"
+    },
+    {
+      "record_pk": 3225,
+      "score": 235,
+      "comments": 33,
+      "source": "fuckcars"
+    },
+    {
+      "record_pk": 5104,
+      "score": 234,
+      "comments": 71,
+      "source": "Portland"
+    },
+    {
+      "record_pk": 2923,
+      "score": 232,
+      "comments": 23,
+      "source": "all"
+    },
+    {
+      "record_pk": 4910,
+      "score": 231,
+      "comments": 10,
+      "source": "micromobilityNYC"
+    },
+    {
+      "record_pk": 4945,
+      "score": 231,
+      "comments": 50,
+      "source": "NYCbike"
+    },
+    {
+      "record_pk": 5281,
+      "score": 230,
+      "comments": 55,
+      "source": "SanJose"
+    },
+    {
+      "record_pk": 2108,
+      "score": 229,
+      "comments": 73,
+      "source": "all"
+    },
+    {
+      "record_pk": 2754,
+      "score": 229,
+      "comments": 31,
+      "source": "all"
+    },
+    {
+      "record_pk": 5232,
+      "score": 229,
+      "comments": 23,
+      "source": "sanfrancisco"
+    },
+    {
+      "record_pk": 4037,
+      "score": 228,
+      "comments": 20,
+      "source": "bicycling"
+    },
+    {
+      "record_pk": 5100,
+      "score": 227,
+      "comments": 29,
+      "source": "Portland"
+    },
+    {
+      "record_pk": 3224,
+      "score": 226,
+      "comments": 74,
+      "source": "fuckcars"
+    },
+    {
+      "record_pk": 5214,
+      "score": 226,
+      "comments": 24,
+      "source": "Minneapolis"
+    },
+    {
+      "record_pk": 2720,
+      "score": 225,
+      "comments": 42,
+      "source": "all"
+    },
+    {
+      "record_pk": 4894,
+      "score": 225,
+      "comments": 65,
+      "source": "all"
+    },
+    {
+      "record_pk": 2843,
+      "score": 225,
+      "comments": 34,
+      "source": "all"
+    },
+    {
+      "record_pk": 5133,
+      "score": 225,
+      "comments": 40,
+      "source": "philadelphia"
+    },
+    {
+      "record_pk": 3706,
+      "score": 224,
+      "comments": 15,
+      "source": "all"
+    },
+    {
+      "record_pk": 2925,
+      "score": 224,
+      "comments": 42,
+      "source": "all"
+    },
+    {
+      "record_pk": 3044,
+      "score": 224,
+      "comments": 8,
+      "source": "bicycling"
+    },
+    {
+      "record_pk": 4990,
+      "score": 223,
+      "comments": 69,
+      "source": "chicago"
+    },
+    {
+      "record_pk": 3736,
+      "score": 222,
+      "comments": 44,
+      "source": "all"
+    },
+    {
+      "record_pk": 3943,
+      "score": 222,
+      "comments": 31,
+      "source": "all"
+    },
+    {
+      "record_pk": 4992,
+      "score": 222,
+      "comments": 29,
+      "source": "chicago"
+    },
+    {
+      "record_pk": 3277,
+      "score": 221,
+      "comments": 28,
+      "source": "fuckcars"
+    },
+    {
+      "record_pk": 3363,
+      "score": 220,
+      "comments": 44,
+      "source": "all"
+    },
+    {
+      "record_pk": 4580,
+      "score": 220,
+      "comments": 43,
+      "source": "all"
+    },
+    {
+      "record_pk": 3506,
+      "score": 219,
+      "comments": 59,
+      "source": "all"
+    },
+    {
+      "record_pk": 5089,
+      "score": 219,
+      "comments": 83,
+      "source": "Portland"
+    },
+    {
+      "record_pk": 3947,
+      "score": 218,
+      "comments": 71,
+      "source": "all"
+    },
+    {
+      "record_pk": 4077,
+      "score": 218,
+      "comments": 54,
+      "source": "cycling"
+    },
+    {
+      "record_pk": 5192,
+      "score": 218,
+      "comments": 44,
+      "source": "Denver"
+    },
+    {
+      "record_pk": 1163,
+      "score": 218,
+      "comments": 100,
+      "source": "bicycling"
+    },
+    {
+      "record_pk": 3812,
+      "score": 216,
+      "comments": 41,
+      "source": "all"
+    },
+    {
+      "record_pk": 5068,
+      "score": 216,
+      "comments": 22,
+      "source": "Portland"
+    },
+    {
+      "record_pk": 2738,
+      "score": 215,
+      "comments": 51,
+      "source": "all"
+    },
+    {
+      "record_pk": 1987,
+      "score": 214,
+      "comments": 35,
+      "source": "all"
+    },
+    {
+      "record_pk": 5258,
+      "score": 214,
+      "comments": 64,
+      "source": "sanfrancisco"
+    },
+    {
+      "record_pk": 2061,
+      "score": 213,
+      "comments": 83,
+      "source": "all"
+    },
+    {
+      "record_pk": 2874,
+      "score": 212,
+      "comments": 60,
+      "source": "all"
+    },
+    {
+      "record_pk": 3110,
+      "score": 212,
+      "comments": 5,
+      "source": "fuckcars"
+    },
+    {
+      "record_pk": 2496,
+      "score": 212,
+      "comments": 62,
+      "source": "all"
+    },
+    {
+      "record_pk": 2384,
+      "score": 209,
+      "comments": 14,
+      "source": "all"
+    },
+    {
+      "record_pk": 4946,
+      "score": 209,
+      "comments": 28,
+      "source": "NYCbike"
+    },
+    {
+      "record_pk": 2459,
+      "score": 209,
+      "comments": 72,
+      "source": "all"
+    },
+    {
+      "record_pk": 3978,
+      "score": 209,
+      "comments": 33,
+      "source": "bicycling"
+    },
+    {
+      "record_pk": 4026,
+      "score": 209,
+      "comments": 17,
+      "source": "bicycling"
+    },
+    {
+      "record_pk": 4998,
+      "score": 208,
+      "comments": 57,
+      "source": "chicago"
+    },
+    {
+      "record_pk": 5093,
+      "score": 208,
+      "comments": 58,
+      "source": "Portland"
+    },
+    {
+      "record_pk": 3711,
+      "score": 207,
+      "comments": 50,
+      "source": "all"
+    }
+  ],
+  "collectionLag": [
+    {
+      "name": "> 1 year",
+      "count": 7831,
+      "percentage": 0.5204705569586601
+    },
+    {
+      "name": "31-365 days",
+      "count": 6225,
+      "percentage": 0.4137312242456467
+    },
+    {
+      "name": "8-30 days",
+      "count": 686,
+      "percentage": 0.04559351322610661
+    },
+    {
+      "name": "1-7 days",
+      "count": 297,
+      "percentage": 0.019739465638707963
+    },
+    {
+      "name": "Same day",
+      "count": 7,
+      "percentage": 0.0004652399308786388
+    }
+  ],
+  "relevanceStats": [
+    {
+      "platform": "news",
+      "onTopic": 9241,
+      "likelyOffTopic": 71,
+      "total": 9312
+    },
+    {
+      "platform": "reddit",
+      "onTopic": 2732,
+      "likelyOffTopic": 40,
+      "total": 2772
+    },
+    {
+      "platform": "bluesky",
+      "onTopic": 2105,
+      "likelyOffTopic": 21,
+      "total": 2126
+    },
+    {
+      "platform": "mastodon",
+      "onTopic": 757,
+      "likelyOffTopic": 79,
+      "total": 836
+    }
+  ],
+  "qualityExamples": [
+    {
+      "record_pk": 16098,
+      "platform": "news",
+      "reason": "Matched off-topic content pattern",
+      "contentPreview": "Motorcyclist dies after crashing into wall in northwest Albuquerque - AOL.com"
+    },
+    {
+      "record_pk": 10040,
+      "platform": "mastodon",
+      "reason": "Broad cycling keyword",
+      "contentPreview": "https://www. cyclingeu.com/882707/crash-cha os-on-naples-cobbles-giro-ditalia-2026-stage-6-lanterne-rouge-x-join-cycling/ Crash Chaos On Naples Cobbles | Giro d’Italia 2026 Stage 6 | Lanterne Rouge x JOIN Cycling # Benj…"
+    },
+    {
+      "record_pk": 15974,
+      "platform": "news",
+      "reason": "Matched off-topic content pattern",
+      "contentPreview": "Dallas crash: Motorcyclist killed after hitting HOV wall, being struck by car - AOL.com"
+    },
+    {
+      "record_pk": 10041,
+      "platform": "mastodon",
+      "reason": "Broad cycling keyword",
+      "contentPreview": "https://www. europesays.com/uk/959860/ Giro d’Italia 2026: Davde Ballerini survives Naples cobbles crash # Cycling # Sports # UK # UnitedKingdom"
+    },
+    {
+      "record_pk": 10042,
+      "platform": "mastodon",
+      "reason": "Broad cycling keyword",
+      "contentPreview": "Giro d’Italia: Davide Ballerini avoids cobbles chaos to win stage six in Naples | Giro d’Italia Davide Ballerini won stage six of the Giro d’Italia as a crash on the cobbles took out several… # NewsBeep # News # Cycling…"
+    },
+    {
+      "record_pk": 10043,
+      "platform": "mastodon",
+      "reason": "Broad cycling keyword",
+      "contentPreview": "Giro d’Italia: Davide Ballerini avoids mass crash, speeds to stage 6 victory in Naples XDS-Astana claimed their second stage victory of the Giro d’Italia as Davide Ballerini outpaced Jasper Stuyven (Lidl-Trek) on… # New…"
+    },
+    {
+      "record_pk": 1503,
+      "platform": "bluesky",
+      "reason": "Matched off-topic content pattern",
+      "contentPreview": "Kind of relatedly, MoCo first responders refer to everyone using a vehicle with two wheels as \"cyclist\". \"Cyclist struck\". \"Cyclist killed\". Whether the person is on a bicycle, motorcycle, motor scooter, dirt bike, e-sc…"
+    },
+    {
+      "record_pk": 10044,
+      "platform": "mastodon",
+      "reason": "Broad cycling keyword",
+      "contentPreview": "‘Crashing at 75kph, you’re never going to walk away unscathed’ – Jake Stewart and NSN’s Giro d’Italia sprint dreams not derailed by injury setbacks When more than half a team fall in a high-speed crash in a single stage…"
+    },
+    {
+      "record_pk": 16082,
+      "platform": "news",
+      "reason": "Matched off-topic content pattern",
+      "contentPreview": "Motorcyclist critically injured in crash near UNLV - AOL.com"
+    },
+    {
+      "record_pk": 10045,
+      "platform": "mastodon",
+      "reason": "Broad cycling keyword",
+      "contentPreview": "Giulio Pellizzari and the growing pressure to end Italy’s Giro drought The maglia rosa changed ownership nine times and crashed into a snowbank before settling on the shoulders of… # Italy # Europe # Europa # EU # cycli…"
+    },
+    {
+      "record_pk": 10046,
+      "platform": "mastodon",
+      "reason": "Broad cycling keyword",
+      "contentPreview": "‘Alone, half conscious, trying to use the small window of adrenaline to call emergency services’ – Albert Withen Philipsen suffers frightening 80kph crash in training Talented Lidl-Trek youngster Albert Withen Philipsen…"
+    },
+    {
+      "record_pk": 10047,
+      "platform": "mastodon",
+      "reason": "Broad cycling keyword",
+      "contentPreview": "Who has abandoned the Giro d’Italia 2026? The opening stages of the 2026 Giro d’Italia have seen some big high-consequence crashes, with a number of… # NewsBeep # News # Cycling # CA # Canada # Sports https://www. newsb…"
+    }
+  ]
+}
